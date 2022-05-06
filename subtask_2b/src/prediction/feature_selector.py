@@ -88,15 +88,14 @@ class FeatureSelector:
     def anova_feature_selection(feature_set_path):
         data_set = pd.read_pickle(feature_set_path)
         col = data_set.columns
-        x = data_set.iloc[:, 1:len(col) - 1]
-        print(x)
+        x = data_set.iloc[:, 2:len(col) - 1]
         y = data_set.iloc[:, len(col) - 1]
         for i in range(len(col)-2):
-            fvalue_Best = SelectKBest(f_classif, k=i+1)
-            X_kbest = fvalue_Best.fit_transform(x, y)
-            # relevant_feature = x.columns[(x.values == X_kbest[:, None]).all(0)]
-            print(X_kbest)
-           # print(relevant_feature)
+            col = x.columns
+            X_kbest = SelectKBest(f_classif, k=i+1).fit(x, y)
+           # X_kbest = fvalue_Best.fit(x, y)
+            print(X_kbest.get_feature_names_out(col))
+
 
 
     @staticmethod
@@ -211,7 +210,7 @@ class FeatureSelector:
         col = data_set.columns
         print(col)
         number_of_features = len(col) - 2
-        x = data_set.iloc[:, 1:len(col) - 1]
+        x = data_set.iloc[:, 2:len(col) - 1]
         x = StandardScaler().fit_transform(x)
         y = data_set.iloc[:, len(col) - 1]
         # Sequential Forward Floating Selection(sffs)
@@ -230,9 +229,9 @@ class FeatureSelector:
     def lasso(feature_set_path):
         data_set = pd.read_pickle(feature_set_path)
         col = data_set.columns
-        col_without_id = data_set.columns[1:]
+        col_without_id = data_set.columns[:]
         print(col)
-        x = data_set.iloc[:, 1:len(col) - 1]
+        x = data_set.iloc[:, 2:len(col) - 1]
         print(x)
         y = data_set.iloc[:, len(col) - 1]
         print(y)

@@ -7,6 +7,7 @@ from src.feature_generation.file_paths.TEST_file_names import complete_feature_s
 from src.feature_generation.file_paths.pp2_files import complete_feature_set_pairs_test_pp2
 from src.feature_generation.unsupervised_feature_set_generator import UnsupervisedFeatureSetGenerator
 from src.pre_processing.pre_processor import PreProcessor
+from src.prediction.feature_selector import FeatureSelector
 from src.prediction.predictor import Predictor
 
 top_5_sbert = 'data/unsupervised_ranking/pp1/top_5_sbert.tsv'
@@ -53,21 +54,23 @@ top_5_sbert_infersent_sim_cse_words_token_ratio_words = 'data/unsupervised_ranki
 top_5_sbert_infersent = 'data/unsupervised_ranking/pp1/top_5_sbert_infersent.tsv'
 top_5_infersent_universal_sim_cse = 'data/unsupervised_ranking/pp1/top_5_infersent_universal_sim_cse.tsv'
 top_5_universal_sim_cse = 'data/unsupervised_ranking/pp1/top_5_universal_sim_cse.tsv'
+top_5_universal_sim_cse_words = 'data/unsupervised_ranking/pp1/top_5_universal_sim_cse_words.tsv'
+top_5_ne_main_syms_ratio = 'data/unsupervised_ranking/pp1/top_5_ne_main_syms_ratio.tsv'
 
 if __name__ == '__main__':
 
     # ## pp1
     #
-    # training_data = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Train-Dev_Queries.tsv'
-    # test_data = 'data/original_speech_data/test_data/queries.tsv'
-    # training_data_labels_train = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Train_QRELs.tsv'
-    # training_data_labels_dev = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Dev_QRELs.tsv'
-    # all_training_data_labels = 'data/original_speech_data/training_data/all_train.pkl'
-    # test_data_labels = 'data/original_speech_data/test_data/task2b-test.tsv'
-    # v_claims = 'data/politifact-vclaims'
+    training_data = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Train-Dev_Queries.tsv'
+    test_data = 'data/original_speech_data/test_data/queries.tsv'
+    training_data_labels_train = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Train_QRELs.tsv'
+    training_data_labels_dev = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Dev_QRELs.tsv'
+    all_training_data_labels = 'data/original_speech_data/training_data/all_train.pkl'
+    test_data_labels = 'data/original_speech_data/test_data/task2b-test.tsv'
+    v_claims = 'data/politifact-vclaims'
     #
     #
-    # pp1_classification = 'data/predictions/pp1/classification.tsv'
+    pp1_classification = 'data/predictions/pp1/classification.tsv'
     # pp1_classification_incomplete = 'data/predictions/pp1/classification_incomplete.tsv'
     #
     #
@@ -76,9 +79,13 @@ if __name__ == '__main__':
     #                            'ne_token_ratio', 'main_syms_ratio', 'main_syms_token_ratio', 'words_ratio',
     #                            'words_token_ratio'])
     #
+
+    # FeatureSelector.lasso(complete_feature_set_pairs_train) #['ne_ne_ratio', 'main_syms_ratio']
+    # FeatureSelector.anova_feature_selection(complete_feature_set_pairs_train)
+
     # predictor = Predictor('binary_classification')
     # predictor.train_and_predict(complete_feature_set_pairs_train, complete_feature_set_pairs_test, test_data_pp1, pp1_classification)
-    # evaluate_CLEF(test_data_labels, pp1_classification) # 0.4335 # try again with different heuristic sim score
+    # evaluate_CLEF(test_data_labels, pp1_classification) # k = 8 0.4383
 
     # training_df = pd.read_pickle(complete_feature_set_pairs_train)
     # training_df = training_df.loc[:, ['i_claim_id', 'ver_claim_id','sbert', 'infersent', 'universal', 'sim_cse', 'seq_match', 'levenshtein',
@@ -94,6 +101,10 @@ if __name__ == '__main__':
     # predictor = Predictor('binary_classification')
     # predictor.train_and_predict(training_df, test_df, test_data_pp1, pp1_classification)
     # evaluate_CLEF(test_data_labels, pp1_classification) # 0.4262
+
+    # ufsg = UnsupervisedFeatureSetGenerator(['ne_ne_ratio', 'main_syms_ratio'], 'pp1')
+    # ufsg.create_top_n_output_file(test_data, top_5_ne_main_syms_ratio, n=5)
+    # evaluate_CLEF(test_data_labels, top_5_ne_main_syms_ratio) # 0.2277
 
 
     # # ufsg = UnsupervisedFeatureSetGenerator(['words_token_ratio'], 'pp1')
@@ -179,6 +190,11 @@ if __name__ == '__main__':
     # ufsg = UnsupervisedFeatureSetGenerator(['universal', 'sim_cse'], 'pp1')
     # ufsg.create_top_n_output_file(test_data, top_5_universal_sim_cse, n=5)
     # evaluate_CLEF(test_data_labels, top_5_universal_sim_cse) #0.4135
+
+
+    # ufsg = UnsupervisedFeatureSetGenerator(['universal', 'sim_cse', 'words'], 'pp1')
+    # ufsg.create_top_n_output_file(test_data, top_5_universal_sim_cse_words, n=5)
+    # evaluate_CLEF(test_data_labels, top_5_universal_sim_cse_words) 0.4103
 
 
 
@@ -369,12 +385,12 @@ if __name__ == '__main__':
     #                            'words_token_ratio'])
     # fsg.generate_feature_set(pp2_test_data)
 
-    pp2_classification = 'data/predictions/pp2/pp2_classification.tsv'
-    test_data_labels = 'data/original_speech_data/test_data/task2b-test.tsv'
-
-    predictor = Predictor('binary_classification')
-    predictor.train_and_predict(complete_feature_set_pairs_train, complete_feature_set_pairs_test_pp2, test_data, pp2_classification)
-    evaluate_CLEF(test_data_labels, pp2_classification) #  0.3418
+    # pp2_classification = 'data/predictions/pp2/pp2_classification.tsv'
+    # test_data_labels = 'data/original_speech_data/test_data/task2b-test.tsv'
+    #
+    # predictor = Predictor('binary_classification')
+    # predictor.train_and_predict(complete_feature_set_pairs_train, complete_feature_set_pairs_test_pp2, test_data, pp2_classification)
+    # evaluate_CLEF(test_data_labels, pp2_classification) #  0.3418
 
     ## pp3
 

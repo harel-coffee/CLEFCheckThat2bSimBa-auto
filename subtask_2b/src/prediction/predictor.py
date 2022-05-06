@@ -80,8 +80,8 @@ class Predictor:
                 OutputFormatter.format_double_output(output_second_clasifier, test_data, output_data)
         elif isinstance(self.ranker, RankClassifier):
             if self.classification_mode == ClassificationMode.binary_classification.name:
-                model = self.ranker.training_of_classifier(training_df)
-                output = self.ranker.predict_rankings(model, test_feature_set)
+                model, selector = self.ranker.training_of_classifier(training_df)
+                output = self.ranker.predict_rankings(model, test_feature_set, selector)
                 OutputFormatter.format_binary_output(output, test_data, output_data)
             elif self.classification_mode == ClassificationMode.binary_proba.name:
                 model = self.ranker.training_of_prediction_classifier(training_df)

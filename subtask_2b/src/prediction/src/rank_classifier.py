@@ -2,13 +2,15 @@ import enum
 import pandas as pd
 from imblearn.over_sampling import SMOTE
 from imblearn.under_sampling import RandomUnderSampler, NearMiss
+from scipy.stats import chi2
 from sklearn import svm, tree
 from sklearn.calibration import CalibratedClassifierCV
-from sklearn.feature_selection import SelectFromModel
+from sklearn.feature_selection import SelectFromModel, SelectKBest, f_classif
 from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
+from sklearn.svm import LinearSVC
 
 
 class BalancingMethod(enum.Enum):
@@ -30,11 +32,12 @@ class MLModel(enum.Enum):
     mn_naive_bayes = 4
     dec_tree = 5
     linear_reg = 6
+    linear_svc = 7
 
 
 class RankClassifier:
 
-    def __init__(self, scaler_name='standard_scaler', model_name='log_reg', balancing_name='random_undersampling', sampling_strat=0.14):
+    def __init__(self, scaler_name='standard_scaler', model_name='linear_svc', balancing_name='random_undersampling', sampling_strat=0.14):
         self.sampling_strat = sampling_strat
         if scaler_name == DatScaler.standard_scaler.name:
             self.scaler = StandardScaler()
@@ -64,10 +67,12 @@ class RankClassifier:
             self.model = tree.DecisionTreeClassifier()
         elif model_name == MLModel.linear_reg.name:
             self.model = LinearRegression()
+        elif model_name == MLModel.linear_svc.name:
+            self.model = LinearSVC(random_state=0, tol=1e-5)
         else:
             raise ValueError('Choose "log_reg", "svm", "knn", "mn_naive_bayes" or "dec_tree".')
 
-    def training_of_classifier(self, feature_set_path):
+    def training_of_classifier(self, feature_set_path, k=8):
         if isinstance(feature_set_path, str):
             data_set = pd.read_pickle(feature_set_path)
         else:
@@ -76,6 +81,7 @@ class RankClassifier:
         col = data_set.columns
         x = data_set.iloc[:, 2:len(col)-1]
         y = data_set.iloc[:, len(col)-1]
+        col = x.columns
         if self.scaler == DatScaler.replace_negatives.name:
             features = x.columns
             new_x = pd.DataFrame()
@@ -96,10 +102,11 @@ class RankClassifier:
             x = self.scaler.fit_transform(x)
         if self.balancer:
             x, y = self.balancer.fit_resample(x, y)
-        # selector = SelectFromModel(estimator=LogisticRegression()).fit(x, y)
-        # x = selector.transform(x)
+        X_kbest = SelectKBest(f_classif, k=k).fit(x, y)
+        print(X_kbest.get_feature_names_out(col))
+        x = X_kbest.fit_transform(x,y)
         self.model.fit(x, y)
-        return self.model#, selector
+        return self.model, X_kbest
 
     def predict_rankings(self, model, feature_set_without_rankings, selector=0):
         if isinstance(feature_set_without_rankings, str):
@@ -126,7 +133,7 @@ class RankClassifier:
                 new_x[feature] = this_feature
         else:
             x = self.scaler.fit_transform(x)
-        #x = selector.transform(x)
+        x = selector.transform(x)
         prediction = model.predict(x)
         data_set['rank'] = prediction
         return data_set
