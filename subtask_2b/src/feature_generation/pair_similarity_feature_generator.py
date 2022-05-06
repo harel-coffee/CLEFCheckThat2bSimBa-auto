@@ -814,4 +814,9 @@ class PairSimilarityFeatureGenerator:
                         words = words_test_TEST
                         token_numbers = token_number_test_TEST
                         filename = words_token_ratio_sims_test_TEST
-                        filename_tsv = words_token_rat
+                        filename_tsv = words_token_ratio_sims_test_TEST_tsv
+                sim_score_data_generator = SimilarityScoreDataGenerator('words_token_ratio')
+                sim_score_data_generator.generate_all_sim_scores(words, vclaims_words, filename, token_numbers, vclaims_tokens)
+                pd.read_pickle(filename).to_csv(filename_tsv)
+            except RuntimeError:
+                print('Something went wrong with computing Words-Token-Ratio.')

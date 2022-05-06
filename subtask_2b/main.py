@@ -4,6 +4,7 @@ from src.evaluation.scorer.main import evaluate_CLEF
 from src.feature_generation import complete_feature_set_pairs_train, complete_feature_set_pairs_test, test_data_pp1
 from src.feature_generation.feature_set_generator import FeatureSetGenerator
 from src.feature_generation.file_paths.TEST_file_names import complete_feature_set_pairs_test_TEST
+from src.feature_generation.file_paths.pp2_files import complete_feature_set_pairs_test_pp2
 from src.feature_generation.unsupervised_feature_set_generator import UnsupervisedFeatureSetGenerator
 from src.pre_processing.pre_processor import PreProcessor
 from src.prediction.predictor import Predictor
@@ -362,8 +363,26 @@ if __name__ == '__main__':
     # pp2_training_data = training_data
     # pp2_test_data = pre_processor.pre_process(test_data, pp2_test_data)
 
-    fsg = FeatureSetGenerator(['sbert', 'infersent', 'universal', 'sim_cse', 'seq_match', 'levenshtein', 'jacc_chars',
-                               'jacc_tokens', 'ne', 'main_syms', 'words', 'subjects', 'token_number', 'ne_ne_ratio',
-                               'ne_token_ratio', 'main_syms_ratio', 'main_syms_token_ratio', 'words_ratio',
-                               'words_token_ratio'])
-    fsg = FeatureSetGenerator(['main_syms_ratio', 'main_syms_token_ratio', 'w
+    # fsg = FeatureSetGenerator(['sbert', 'infersent', 'universal', 'sim_cse', 'seq_match', 'levenshtein', 'jacc_chars',
+    #                            'jacc_tokens', 'ne', 'main_syms', 'words', 'subjects', 'token_number', 'ne_ne_ratio',
+    #                            'ne_token_ratio', 'main_syms_ratio', 'main_syms_token_ratio', 'words_ratio',
+    #                            'words_token_ratio'])
+    # fsg.generate_feature_set(pp2_test_data)
+
+    pp2_classification = 'data/predictions/pp2/pp2_classification.tsv'
+    test_data_labels = 'data/original_speech_data/test_data/task2b-test.tsv'
+
+    predictor = Predictor('binary_classification')
+    predictor.train_and_predict(complete_feature_set_pairs_train, complete_feature_set_pairs_test_pp2, test_data, pp2_classification)
+    evaluate_CLEF(test_data_labels, pp2_classification) #  0.3418
+
+    ## pp3
+
+
+
+
+
+
+
+
+

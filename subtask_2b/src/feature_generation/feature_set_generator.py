@@ -24,10 +24,10 @@ class FeatureSetGenerator:
     def create_features(self, dataset):
         SentenceFeatureGenerator.create_sentence_features(self.features, dataset)
         PairSimilarityFeatureGenerator.create_pair_similarity_features(self.features, dataset)
-        #PairSimilarityFeatureGenerator.compute_top_n_sentence_embeddings_features(dataset, n)
+        PairSimilarityFeatureGenerator.compute_top_n_sentence_embeddings_features(dataset, n)
 
     def combine_features(self, dataset, labels=0):
-        FeatureSetCombiner.combine_top_50_sentence_embeddings_features(dataset)
+        # FeatureSetCombiner.combine_top_50_sentence_embeddings_features(dataset)
         FeatureSetCombiner.add_other_features_to_embedding_features(dataset, self.features)
         FeatureSetCombiner.add_scores_to_feature_set(dataset, labels)
 
@@ -59,8 +59,8 @@ class FeatureSetGenerator:
         return df
 
     def generate_feature_set(self, dataset, labels=0):
-        self.create_features(dataset)
-        # self.combine_features(dataset, labels)
+        # self.create_features(dataset)
+        self.combine_features(dataset, labels)
         #return self.transform_to_triple_dataset(dataset)
 
     @staticmethod
@@ -69,4 +69,4 @@ class FeatureSetGenerator:
                                          names=['tweet_id', 'Q0', 'ver_claim_id', '1'], dtype=str)
         labels_2_df = pd.read_csv(labels_2, sep='\t',
                                          names=['tweet_id', 'Q0', 'ver_claim_id', '1'], dtype=str)
-        return pd.concat([labels_1_df, labels_2_df]).to_pickle(combined)
+        return pd.concat([labels_1_df, labels_2_df]).to_pickle(combined)
