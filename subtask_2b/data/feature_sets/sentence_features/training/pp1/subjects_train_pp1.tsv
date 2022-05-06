@@ -1,0 +1,703 @@
+,input_claim_ids,pos
+0,20121023_third_presidential_debate_0959,"['you', 'you', 'they']"
+1,20121023_third_presidential_debate_0985,"['policies', 'americans']"
+2,20121023_third_presidential_debate_0753,"['unemployment', 'it', 'i']"
+3,20121023_third_presidential_debate_0473,"['i', 'that', 'we']"
+4,20121023_third_presidential_debate_0609,"['i', 'president', 'he', 'they']"
+5,20121023_third_presidential_debate_0088,"['i', 'you', 'what', 'you', 'you']"
+6,20121023_third_presidential_debate_0459,"['you', 'military', 'you', 'you', 'loopholes', 'you', 'we']"
+7,20121023_third_presidential_debate_0605,"['president', 'i']"
+8,20121023_third_presidential_debate_0684,"['you', 'i', 'i', 'i', 'i', 'you', 'we', 'you', 'we']"
+9,20121023_third_presidential_debate_0884,"['you', 'you', 'that']"
+10,20150805_GOP_cleveland_0767,"['third', 'we', 'percent']"
+11,20150805_GOP_cleveland_0595,['you']
+12,20151013_democrats_las_vegas_0097,['unemployment']
+13,20151013_democrats_las_vegas_0098,['unemployment']
+14,20151013_democrats_las_vegas_0146,"['i', 'i', 'i', 'it']"
+15,20151013_democrats_las_vegas_0146,"['i', 'i', 'i', 'it']"
+16,20151013_democrats_las_vegas_0305,"['you', 'that']"
+17,20151013_democrats_las_vegas_0096,['we']
+18,20151013_democrats_las_vegas_0962,"['i', 'i']"
+19,20151013_democrats_las_vegas_0182,"['you', 'country', 'you', 'we', 'we', 'we']"
+20,20151013_democrats_las_vegas_1475,"['we', 'that', 'we', 'who']"
+21,20151013_democrats_las_vegas_1227,['he']
+22,20151013_democrats_las_vegas_1228,['he']
+23,20151028_GOP_boulder_0923,['percent']
+24,20151028_GOP_boulder_0923,['percent']
+25,20151028_GOP_boulder_0115,"['i', 'i', 'socialist', 'they', 'they', 'they']"
+26,20151028_GOP_boulder_0367,['we']
+27,20151028_GOP_boulder_0842,"['you', 'you', 'i']"
+28,20151028_GOP_boulder_0949,"['this', 'you']"
+29,20151028_GOP_boulder_0950,"['they', 'they', 'they', 'you', 'involvement']"
+30,20151028_GOP_boulder_0958,"['it', 'i']"
+31,20151028_GOP_boulder_0744,"['manufacturer', 'they', 'they', 'cost']"
+32,20151028_GOP_boulder_0916,"['one', 'wage']"
+33,20151028_GOP_boulder_1032,"['i', 'you', 'he']"
+34,20151028_GOP_boulder_1435,"['we', 'john']"
+35,20151110_GOP_milwuakee_0389,[]
+36,20151110_GOP_milwuakee_0275,['it']
+37,20151110_GOP_milwuakee_0888,['we']
+38,20151110_GOP_milwuakee_0875,"['it', 'china', 'they']"
+39,20151110_GOP_milwuakee_0656,['one']
+40,20151110_GOP_milwuakee_0566,"['i', 'you']"
+41,20151110_GOP_milwuakee_0567,"['i', 'you', 'families', 'they']"
+42,20151110_GOP_milwuakee_0568,"['i', 'obamacare']"
+43,20151110_GOP_milwuakee_0313,"['you', 'i', 'who', 'this', 'it']"
+44,20160112_Obama_state_of_the_union_0013,"['businesses', 'it']"
+45,20160112_Obama_state_of_the_union_0076,['we']
+46,20160112_Obama_state_of_the_union_0145,"['that', 'i', 'it', 'it', 'it']"
+47,20160112_Obama_state_of_the_union_0071,['i']
+48,20160112_Obama_state_of_the_union_0072,"['you', 'america']"
+49,20160112_Obama_state_of_the_union_0073,['states']
+50,20160115_GOP_charlston_0192,"['you', 'you', 'what', 'this', 'he', 'that', 'you']"
+51,20160115_GOP_charlston_0192,"['you', 'you', 'what', 'this', 'he', 'that', 'you']"
+52,20160115_GOP_charlston_0195,"['i', 'i', 'i', 'women']"
+53,20160115_GOP_charlston_0196,['it']
+54,20160115_GOP_charlston_0197,[]
+55,20160115_GOP_charlston_0195,"['i', 'i', 'i', 'women']"
+56,20160115_GOP_charlston_0196,['it']
+57,20160115_GOP_charlston_0197,[]
+58,20160115_GOP_charlston_0473,"['christie', 'obama', 'it', 'he']"
+59,20160115_GOP_charlston_0138,['she']
+60,20160115_GOP_charlston_0139,['she']
+61,20160115_GOP_charlston_0740,"['holder', 'he']"
+62,20160115_GOP_charlston_0047,['we']
+63,20160115_GOP_charlston_0048,['wages']
+64,20160115_GOP_charlston_0049,['economy']
+65,20160115_GOP_charlston_1591,"['budget', 'you', 'that', 'it']"
+66,20160115_GOP_charlston_1616,"['attack', 'he', 'marco', 'i']"
+67,20160115_GOP_charlston_1579,"['you', 'you', 'you', 'you']"
+68,20160115_GOP_charlston_1579,"['you', 'you', 'you', 'you']"
+69,20160117_democrats_charlston_0413,"['we', 'they']"
+70,20160117_democrats_charlston_0414,['we']
+71,20160117_democrats_charlston_0129,"['i', 'sanders', 'i', 'who']"
+72,20160117_democrats_charlston_0122,"['he', 'we']"
+73,20160117_democrats_charlston_0994,['much']
+74,20160117_democrats_charlston_0995,[]
+75,20160204_democrats_new_hampshire_0623,"['group', 'he']"
+76,20160204_democrats_new_hampshire_0024,"['they', 'income']"
+77,20160204_democrats_new_hampshire_1062,['workers']
+78,20160204_democrats_new_hampshire_1032,"['i', 'i']"
+79,20160204_democrats_new_hampshire_1032,"['i', 'i']"
+80,20160211_democrats_milwuakee_0052,['americans']
+81,20160211_democrats_milwuakee_0097,['we']
+82,20160211_democrats_milwuakee_0332,"['i', 'community']"
+83,20160211_democrats_milwuakee_0909,['he']
+84,20160213_GOP_greenville_0210,"['we', 'i', 'that']"
+85,20160213_GOP_greenville_0210,"['we', 'i', 'that']"
+86,20160213_GOP_greenville_0212,['nobody']
+87,20160213_GOP_greenville_0216,"['i', 'i', 'it', 'you']"
+88,20160213_GOP_greenville_1002,"['i', 'i']"
+89,20160213_GOP_greenville_1528,"['stalin', 'you']"
+90,20160225_GOP_texas_1801,"['he', 'i']"
+91,20160225_GOP_texas_1172,"['what', 'that', 'donald']"
+92,20160225_GOP_texas_1173,"['government', 'he', 'you', 'you']"
+93,20160225_GOP_texas_0120,"['you', 'you', 'it', 'opening', 'i']"
+94,20160225_GOP_texas_0121,['it']
+95,20160225_GOP_texas_0962,"['they', 'they']"
+96,20160225_GOP_texas_0963,"['you', 'they', 'that', 'they']"
+97,20160225_GOP_texas_0964,['we']
+98,20160303_GOP_michigan_0237,"['i', 'we', 'i', 'it']"
+99,20160303_GOP_michigan_0418,['guy']
+100,20160303_GOP_michigan_1158,['we']
+101,20160303_GOP_michigan_0574,['trump']
+102,20160303_GOP_michigan_0575,[]
+103,20160303_GOP_michigan_0940,"['you', 'family', 'man', 'they', 'i', 'most', 'they', 'it', 'they', 'they', 'what']"
+104,20160303_GOP_michigan_0940,"['you', 'family', 'man', 'they', 'i', 'most', 'they', 'it', 'they', 'they', 'what']"
+105,20160309_democrats_miami_0110,"['i', 'predecessors']"
+106,20160309_democrats_miami_0241,"['we', 'clinton', 'who', 'she', 'state']"
+107,20160309_democrats_miami_0245,"['i', 'clinton']"
+108,20160309_democrats_miami_0778,"['you', 'who', 'percent']"
+109,20160309_democrats_miami_0784,['kids']
+110,20160309_democrats_miami_0784,['kids']
+111,20160309_democrats_miami_0939,"['plan', 'sanders', 'he', 'which']"
+112,20160311_GOP_miami_0844,"['donald', 'he']"
+113,20160311_GOP_miami_0149,"['i', 'which', 'you']"
+114,20160329_kasich_milwuakee_0029,"['i', 'that']"
+115,20160329_kasich_milwuakee_0259,[]
+116,20160331_Cruz_Miluakee_0100,"['he', 'he', 'he', 'he']"
+117,20160331_Cruz_Miluakee_0173,"['lets', 'hours', 'you', 'him']"
+118,20160401_Trump_Milwaukee_0653,"['politicians', 'i']"
+119,20160401_Trump_Milwaukee_0334,"['i', 'you', 'i', 'obama', 'threat', 'i', 'guy']"
+120,20160401_Trump_Milwaukee_0812,"['it', 'i', 'he', 'he', 'he', 'who']"
+121,20160401_Trump_Milwaukee_0052,"['she', 'they', 'story']"
+122,20160404_Hillary_meet_the_press_0153,"['i', 'managers']"
+123,20160404_Hillary_meet_the_press_0174,"['i', 'anybody', 'i']"
+124,20160415_NY_democratic_debate_0541,"['he', 'he']"
+125,20160415_NY_democratic_debate_0300,['i']
+126,20160415_NY_democratic_debate_0557,"['i', 'law', 'sanders', 'i', 'who']"
+127,20160415_NY_democratic_debate_1183,['they']
+128,20160415_NY_democratic_debate_0433,"['campaign', 'i', 'we']"
+129,20160415_NY_democratic_debate_0434,"['clinton', ""'s""]"
+130,20160415_NY_democratic_debate_1295,['we']
+131,20160417_meet_the_press_0059,"['you', 'i', 'what', 'i', 'campaign', 'this', 'we', 'it', 'amount', 'we', 'it']"
+132,20160424_meet_the_press_0384,['people']
+133,20160508_Trump_meet_the_press_0366,['it']
+134,20160508_Trump_meet_the_press_0375,['we']
+135,20160508_Trump_meet_the_press_0375,['we']
+136,20160508_Trump_meet_the_press_0395,['businesses']
+137,20160508_Trump_meet_the_press_0394,['we']
+138,20160508_Trump_meet_the_press_0394,['we']
+139,20160529_Sanders_MeetThePress_0184,['she']
+140,20160529_Sanders_MeetThePress_0179,['i']
+141,20160529_Sanders_MeetThePress_0181,['i']
+142,20160529_Sanders_MeetThePress_0182,['she']
+143,20160529_Sanders_MeetThePress_0185,"['i', 'we']"
+144,20160622_Trump_NY_Soho_0022,"['clinton', 'who', 'people', 'she', 'she', 'attack']"
+145,20160622_Trump_NY_Soho_0022,"['clinton', 'who', 'people', 'she', 'she', 'attack']"
+146,20160622_Trump_NY_Soho_0061,"['clinton', 'she']"
+147,20160622_Trump_NY_Soho_0061,"['clinton', 'she']"
+148,20160622_Trump_NY_Soho_0062,['we']
+149,20160622_Trump_NY_Soho_0062,['we']
+150,20160622_Trump_NY_Soho_0064,"['she', 'china', 'which']"
+151,20160622_Trump_NY_Soho_0065,"['clinton', 'china']"
+152,20160622_Trump_NY_Soho_0073,"['i', 'it', 'she', 'she']"
+153,20160622_Trump_NY_Soho_0074,"['she', 'deletion', 'she', 'emails']"
+154,20160622_Trump_NY_Soho_0074,"['she', 'deletion', 'she', 'emails']"
+155,20160622_Trump_NY_Soho_0084,"['clinton', 'that', 'rang', 'she']"
+156,20160622_Trump_NY_Soho_0085,['stevens']
+157,20160622_Trump_NY_Soho_0086,['department']
+158,20160622_Trump_NY_Soho_0108,"['i', 'i', 'war']"
+159,20160622_Trump_NY_Soho_0108,"['i', 'i', 'war']"
+160,20160622_Trump_NY_Soho_0113,"['clinton', 'that']"
+161,20160622_Trump_NY_Soho_0114,"['we', 'they', 'they']"
+162,20160622_Trump_NY_Soho_0115,[]
+163,20160622_Trump_NY_Soho_0130,['clinton']
+164,20160622_Trump_NY_Soho_0131,"['hillary', 'that']"
+165,20160622_Trump_NY_Soho_0141,['she']
+166,20160622_Trump_NY_Soho_0151,"['clinton', 'we']"
+167,20160622_Trump_NY_Soho_0157,[]
+168,20160622_Trump_NY_Soho_0157,[]
+169,20160622_Trump_NY_Soho_0179,"['military', 'we']"
+170,20160622_Trump_NY_Soho_0179,"['military', 'we']"
+171,20160622_Trump_NY_Soho_0183,['wages']
+172,20160721_Trump_draft_RNC_0020,"['leaks', 'these']"
+173,20160721_Trump_draft_RNC_0021,['homicides']
+174,20160721_Trump_draft_RNC_0022,['that']
+175,20160721_Trump_draft_RNC_0029,"['number', 'who']"
+176,20160721_Trump_draft_RNC_0040,"['latinos', 'president']"
+177,20160721_Trump_draft_RNC_0047,"['roads', 'airports', 'americans']"
+178,20160721_Trump_draft_RNC_0043,['deficit']
+179,20160721_Trump_draft_RNC_0187,['america']
+180,20160721_Trump_draft_RNC_0187,['america']
+181,20160721_Trump_draft_RNC_0160,['opponent']
+182,20160721_Trump_draft_RNC_0058,['prehillary']
+183,20160721_Trump_draft_RNC_0148,['opponent']
+184,20160721_Trump_draft_RNC_0149,"['she', 'they', 'they']"
+185,20160721_Trump_draft_RNC_0205,"['clinton', 'i', 'who']"
+186,20160721_Trump_draft_RNC_0206,['americans']
+187,20160721_Trump_draft_RNC_0207,['america']
+188,20160721_Trump_draft_RNC_0207,['america']
+189,20160721_Trump_draft_RNC_0230,['opponent']
+190,20160721_Trump_draft_RNC_0042,['incomes']
+191,20160721_Trump_draft_RNC_0234,"['amendment', 'they']"
+192,20160721_Trump_draft_RNC_0028,['immigrants']
+193,20160901_Trump_immigration_Phoenix_0063,"['clinton', 'plan']"
+194,20160901_Trump_immigration_Phoenix_0048,"['truth', 'issue']"
+195,20160901_Trump_immigration_Phoenix_0043,['immigration']
+196,20160901_Trump_immigration_Phoenix_0061,['obama']
+197,20160901_Trump_immigration_Phoenix_0061,['obama']
+198,20160901_Trump_immigration_Phoenix_0061,['obama']
+199,20160901_Trump_immigration_Phoenix_0124,['that']
+200,20160901_Trump_immigration_Phoenix_0082,"['administration', 'aliens', 'these', 'individuals']"
+201,20160901_Trump_immigration_Phoenix_0052,"['problem', 'who']"
+202,20160901_Trump_immigration_Phoenix_0135,['half']
+203,20160907_NBC_commander_in_chief_forum_0073,"['material', 'which', 'nothing', 'i', 'none']"
+204,20160907_NBC_commander_in_chief_forum_0165,"['he', 'gadhafi']"
+205,20160907_NBC_commander_in_chief_forum_0221,['i']
+206,20160907_NBC_commander_in_chief_forum_0240,['population']
+207,20160907_NBC_commander_in_chief_forum_0241,['twenty']
+208,20160907_NBC_commander_in_chief_forum_0358,['i']
+209,20160907_NBC_commander_in_chief_forum_0378,"['i', 'anybody']"
+210,20160907_NBC_commander_in_chief_forum_0439,[]
+211,20160907_NBC_commander_in_chief_forum_0545,"['i', 'you', 'one', 'they']"
+212,20160907_NBC_commander_in_chief_forum_0564,['he']
+213,20160907_NBC_commander_in_chief_forum_0571,"['i', 'he', 'ill']"
+214,20160907_NBC_commander_in_chief_forum_0611,['clinton']
+215,20160926_1pres_0064,"['they', 'countries']"
+216,20160926_1pres_0098,"['it', 'we']"
+217,20160926_1pres_0165,"['donald', 'who']"
+218,20160926_1pres_0166,"['he', 'i', 'it', 'i']"
+219,20160926_1pres_0175,"['experts', 'i', 'donald', 'they', 'plan', 'which', 'we']"
+220,20160926_1pres_0179,"['donald', 'change']"
+221,20160926_1pres_0183,['i']
+222,20160926_1pres_0202,"['administration', 'they']"
+223,20160926_1pres_0203,[]
+224,20160926_1pres_0232,['i']
+225,20160926_1pres_0252,"['you', 'you', 'you', 'you', 'you', 'manufacture']"
+226,20160926_1pres_0264,['you']
+227,20160926_1pres_0265,"['you', 'it', 'you']"
+228,20160926_1pres_0424,['we']
+229,20160926_1pres_0440,"['you', 'i', 'they']"
+230,20160926_1pres_0493,"['he', 'all', 'years', 'he', 'he', 'they', 'he']"
+231,20160926_1pres_0575,"['we', 'you']"
+232,20160926_1pres_0579,"['you', 'you']"
+233,20160926_1pres_0629,['epidemic']
+234,20160926_1pres_0645,['they']
+235,20160926_1pres_0711,"['it', 'you', 'you', 'you']"
+236,20160926_1pres_0748,"['i', 'you', 'that']"
+237,20160926_1pres_0819,['they']
+238,20160926_1pres_0868,"['donald', 'he', 'he', 'people', 'who', 'that']"
+239,20160926_1pres_0927,"['that', 'i', 'i', 'donald']"
+240,20160926_1pres_1010,"['he', 'we']"
+241,20160926_1pres_1010,"['he', 'we']"
+242,20160926_1pres_1057,"['i', 'they']"
+243,20160926_1pres_1059,"['that', 'me', 'i', 'i', 'that', 'i']"
+244,20160926_1pres_1079,['i']
+245,20160926_1pres_1148,"['successor', 'that']"
+246,20160926_1pres_1182,['they']
+247,20160926_1pres_1182,['they']
+248,20160926_1pres_1214,"['china', 'it']"
+249,20160926_1pres_1215,"['one', 'i', 'i', 'you']"
+250,20160926_1pres_1222,[]
+251,20160926_1pres_1225,"['it', 'i']"
+252,20160926_1pres_1326,"['this', 'who', 'someone', 'who', 'who']"
+253,20160926_1pres_1326,"['this', 'who', 'someone', 'who', 'who']"
+254,20161005_vice_pres_0075,"['he', 'he', 'he']"
+255,20161005_vice_pres_0050,"['we', 'people', 'we']"
+256,20161005_vice_pres_0097,['guys']
+257,20161005_vice_pres_0153,"['iraq', 'clinton']"
+258,20161005_vice_pres_0117,"['she', 'foundation']"
+259,20161005_vice_pres_0179,"['i', 'that', 'clinton', 'we', 'debt']"
+260,20161005_vice_pres_0184,"['he', 'he']"
+261,20161005_vice_pres_0192,['they']
+262,20161005_vice_pres_0215,"['trump', 'wages']"
+263,20161005_vice_pres_0216,"['trump', 'we']"
+264,20161005_vice_pres_0234,"['i', 'truth', 'clinton']"
+265,20161005_vice_pres_0236,[]
+266,20161005_vice_pres_0305,"['nixon', 'he']"
+267,20161005_vice_pres_0326,"['trump', 'he', 'security']"
+268,20161005_vice_pres_0437,[]
+269,20161005_vice_pres_0438,['you']
+270,20161005_vice_pres_0497,"['clinton', 'that', 'that', 'it']"
+271,20161005_vice_pres_0497,"['clinton', 'that', 'that', 'it']"
+272,20161005_vice_pres_0497,"['clinton', 'that', 'that', 'it']"
+273,20161005_vice_pres_0639,['he']
+274,20161005_vice_pres_0639,['he']
+275,20161005_vice_pres_0640,"['military', 'hero', 'generals', 'i']"
+276,20161005_vice_pres_0640,"['military', 'hero', 'generals', 'i']"
+277,20161005_vice_pres_0965,['nations']
+278,20161005_vice_pres_0968,['he']
+279,20161005_vice_pres_0682,['you']
+280,20161005_vice_pres_0694,['clinton']
+281,20161005_vice_pres_0737,"['elaine', 'we', 'people']"
+282,20161005_vice_pres_1039,['we']
+283,20161005_vice_pres_1134,['it']
+284,20161005_vice_pres_1163,['cents']
+285,20161005_vice_pres_1163,['cents']
+286,20161005_vice_pres_1163,['cents']
+287,20161005_vice_pres_1163,['cents']
+288,20161005_vice_pres_1162,[]
+289,20161005_vice_pres_1259,"['that', 'that', 'who']"
+290,20161005_vice_pres_1325,"['she', 'she', 'program', 'kids']"
+291,20161010_2pres_0035,"['i', 'i', 'what', 'insurance', 'that', 'i', 'it', 'it', 'we', 'state', 'we', 'them']"
+292,20161010_2pres_0037,['we']
+293,20161010_2pres_0039,['we']
+294,20161010_2pres_0112,"['we', 'him']"
+295,20161010_2pres_0117,"['it', 'it', 'that', 'he']"
+296,20161010_2pres_0117,"['it', 'it', 'that', 'he']"
+297,20161010_2pres_0117,"['it', 'it', 'that', 'he']"
+298,20161010_2pres_0117,"['it', 'it', 'that', 'he']"
+299,20161010_2pres_0130,"['i', 'they', 'hillary', 'she']"
+300,20161010_2pres_0165,"['client', 'she']"
+301,20161010_2pres_0190,"['you', 'you', 'campaign', 'he', 'you', 'he', 'that', 'this', 'they', 'she']"
+302,20161010_2pres_0208,"['emails', 'you', 'you', 'you', 'you', 'acid', 'you']"
+303,20161010_2pres_0346,['we']
+304,20161010_2pres_0347,"['that', 'we']"
+305,20161010_2pres_0370,"['she', 'which']"
+306,20161010_2pres_0437,"['we', 'muslims', 'they', 'something']"
+307,20161010_2pres_0439,"['people', 'that']"
+308,20161010_2pres_0500,['clinton']
+309,20161010_2pres_0501,"['people', 'we', 'they', 'they', 'feelings', 'she']"
+310,20161010_2pres_0525,"['you', 'trump', 'they']"
+311,20161010_2pres_0534,"['i', 'i']"
+312,20161010_2pres_0554,"['we', 'drugs']"
+313,20161010_2pres_0605,"['she', 'i']"
+314,20161010_2pres_0607,['i']
+315,20161010_2pres_0675,"['lot', 'taxes']"
+316,20161010_2pres_0772,"['kids', 'i', 'i']"
+317,20161010_2pres_0776,"['i', 'i', 'women']"
+318,20161010_2pres_0834,"['program', 'they']"
+319,20161010_2pres_0838,['we']
+320,20161010_2pres_0839,['we']
+321,20161010_2pres_0840,['we']
+322,20161010_2pres_0821,['she']
+323,20161010_2pres_0851,['isis']
+324,20161010_2pres_0858,"['russia', 'who', 'you', 'i', 'which']"
+325,20161010_2pres_0981,"['she', 'she', 'she']"
+326,20161010_2pres_0982,['she']
+327,20161010_2pres_1035,['teachers']
+328,20161010_2pres_1036,['bullying']
+329,20161010_2pres_1069,['we']
+330,20161010_2pres_1081,[]
+331,20161010_2pres_1168,['which']
+332,20161019_3pres_0029,"['i', 'that']"
+333,20161019_3pres_0029,"['i', 'that']"
+334,20161019_3pres_0030,"['i', 'it', 'we', 'we', 'we', 'we', 'we', 'court']"
+335,20161019_3pres_0048,"['i', 'opponent', 'which', 'i', 'we', 'which', 'it']"
+336,20161019_3pres_0078,"['i', 'you', 'i', 'court', 'district', 'they', 'people']"
+337,20161019_3pres_0074,"['i', 'we', 'we', 'who']"
+338,20161019_3pres_0139,"['he', 'who']"
+339,20161019_3pres_0189,['hillary']
+340,20161019_3pres_0190,['she']
+341,20161019_3pres_0200,"['all', 'problem', 'that']"
+342,20161019_3pres_0201,['it']
+343,20161019_3pres_0228,"['he', 'person']"
+344,20161019_3pres_0255,['clinton']
+345,20161019_3pres_0256,['clinton']
+346,20161019_3pres_0273,['he']
+347,20161019_3pres_0339,"['she', 'he']"
+348,20161019_3pres_0345,['i']
+349,20161019_3pres_0363,"['russians', 'you', 'you', 'he', 'you', 'he']"
+350,20161019_3pres_0366,"['we', 'who', 'attacks']"
+351,20161019_3pres_0424,[]
+352,20161019_3pres_0468,"['i', 'us']"
+353,20161019_3pres_0485,"['plan', 'we', 'it']"
+354,20161019_3pres_0490,"['i', 'plan']"
+355,20161019_3pres_0607,"['she', 'she', 'she']"
+356,20161019_3pres_0609,['she']
+357,20161019_3pres_0655,"['you', 'billion']"
+358,20161019_3pres_0657,['you']
+359,20161019_3pres_0659,['it']
+360,20161019_3pres_0667,[]
+361,20161019_3pres_0687,"['she', 'her', 'group', 'we', 'we', 'we', 'they']"
+362,20161019_3pres_0688,"['she', 'you']"
+363,20161019_3pres_0695,"['we', 'women', 'you']"
+364,20161019_3pres_0699,[]
+365,20161019_3pres_0751,"['i', 'she']"
+366,20161019_3pres_0765,['he']
+367,20161019_3pres_0423,[]
+368,20161019_3pres_0793,"['foundation', 'it', 'that', 'who']"
+369,20161019_3pres_0815,['arabia']
+370,20161019_3pres_0815,['arabia']
+371,20161019_3pres_0818,"['these', 'that']"
+372,20161019_3pres_0820,"['i', 'you', 'you', 'that']"
+373,20161019_3pres_0820,"['i', 'you', 'you', 'that']"
+374,20161019_3pres_0832,"['i', 'we', 'which']"
+375,20161019_3pres_0867,"['he', 'who', 'he', 'we']"
+376,20161019_3pres_0877,"['all', 'i', 'buffett']"
+377,20161019_3pres_0918,"['you', 'you', 'you', 'this', 'this']"
+378,20161019_3pres_0942,"['he', 'he']"
+379,20161019_3pres_1036,"['you', 'donald', 'he']"
+380,20161019_3pres_1037,"['i', 'it']"
+381,20161019_3pres_1038,['i']
+382,20161019_3pres_1039,"['he', 'what']"
+383,20161019_3pres_1133,['we']
+384,20161019_3pres_1277,"['it', 'premiums']"
+385,20161019_3pres_1329,"['we', 'that', 'we']"
+386,20170111_Trump_press_conference_0041,"['it', 'we']"
+387,20170111_Trump_press_conference_0172,"['they', 'they']"
+388,20170111_Trump_press_conference_0203,"['i', 'you', 'administration']"
+389,20170111_Trump_press_conference_0259,"['i', 'you', 'i', 'i', 'which', 'i', 'it']"
+390,20170111_Trump_press_conference_0266,"['i', 'i']"
+391,20170111_Trump_press_conference_0270,"['i', 'i']"
+392,20170111_Trump_press_conference_0287,['you']
+393,20170111_Trump_press_conference_0277,['president']
+394,20170111_Trump_press_conference_0278,"['you', 'one', 'that']"
+395,20170111_Trump_press_conference_0387,['it']
+396,20170111_Trump_press_conference_0388,['it']
+397,20170111_Trump_press_conference_0450,"['states', 'i', '17']"
+398,20170111_Trump_press_conference_0483,"['i', 'which', 'we']"
+399,20170111_Trump_press_conference_0498,"['you', 'that', 'they']"
+400,20170111_Trump_press_conference_0498,"['you', 'that', 'they']"
+401,20170120_Trump_inauguration_0027,"['everyone', 'you', 'world']"
+402,20170120_Trump_inauguration_0032,"['mothers', 'system', 'which']"
+403,20170120_Trump_inauguration_0032,"['mothers', 'system', 'which']"
+404,20170120_Trump_inauguration_0032,"['mothers', 'system', 'which']"
+405,20170120_Trump_inauguration_0033,['that']
+406,20170120_Trump_inauguration_0033,['that']
+407,20170120_Trump_inauguration_0033,['that']
+408,20170120_Trump_inauguration_0033,['that']
+409,20170120_Trump_inauguration_0040,['we']
+410,20170120_Trump_inauguration_0041,['infrastructure']
+411,20170120_Trump_inauguration_0039,['we']
+412,20170120_Trump_inauguration_0039,['we']
+413,20170120_Trump_inauguration_0042,"['we', 'countries', 'wealth']"
+414,20170120_Trump_inauguration_0061,"['we', 'we', 'we', 'it']"
+415,20170120_Trump_inauguration_0061,"['we', 'we', 'we', 'it']"
+416,20170120_Trump_inauguration_0061,"['we', 'we', 'we', 'it']"
+417,20170120_Trump_inauguration_0061,"['we', 'we', 'we', 'it']"
+418,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+419,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+420,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+421,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+422,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+423,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+424,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+425,20170126_Trump_ABC_0107,"['you', 'who', 'who', 'who']"
+426,20170126_Trump_ABC_0110,['they']
+427,20170126_Trump_ABC_0110,['they']
+428,20170126_Trump_ABC_0110,['they']
+429,20170126_Trump_ABC_0110,['they']
+430,20170126_Trump_ABC_0110,['they']
+431,20170126_Trump_ABC_0110,['they']
+432,20170126_Trump_ABC_0110,['they']
+433,20170126_Trump_ABC_0110,['they']
+434,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+435,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+436,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+437,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+438,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+439,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+440,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+441,20170126_Trump_ABC_0103,"['you', 'you', 'who', 'you', 'you', 'that', 'you', 'you', 'we']"
+442,20170126_Trump_ABC_0121,"['you', 'that', 'that']"
+443,20170126_Trump_ABC_0133,"['he', 'they']"
+444,20170126_Trump_ABC_0178,"['you', 'it']"
+445,20170126_Trump_ABC_0180,"['they', 'they']"
+446,20170126_Trump_ABC_0679,['audience']
+447,20170126_Trump_ABC_0680,['crowd']
+448,20170126_Trump_ABC_0319,['answer']
+449,20170126_Trump_ABC_0420,['it']
+450,20170205_Trump_Oreilly_0141,['i']
+451,20170205_Trump_Oreilly_0216,"['i', 'cities', 'they']"
+452,20170205_Trump_Oreilly_0216,"['i', 'cities', 'they']"
+453,20170205_Trump_Oreilly_0354,"['you', 'who', 'you', 'people', 'that', 'president']"
+454,20170205_Trump_Oreilly_0360,"['you', 'you', 'that', 'that', 'people', 'that', 'you', 'that', 'you', 'you', 'that', 'they']"
+455,20170205_Trump_Oreilly_0360,"['you', 'you', 'that', 'that', 'people', 'that', 'you', 'that', 'you', 'you', 'that', 'they']"
+456,20170205_Trump_Oreilly_0360,"['you', 'you', 'that', 'that', 'people', 'that', 'you', 'that', 'you', 'you', 'that', 'they']"
+457,20170205_Trump_Oreilly_0186,"['you', 'obamacare']"
+458,20170205_Trump_Oreilly_0186,"['you', 'obamacare']"
+459,20170205_Trump_Oreilly_0185,['obamacare']
+460,20170205_Trump_Oreilly_0185,['obamacare']
+461,20170205_Trump_Oreilly_0038,"['we', 'which']"
+462,20170205_Trump_Oreilly_0038,"['we', 'which']"
+463,20170207_Sanders_Cruz_healthcare_debate_0032,['they']
+464,20170207_Sanders_Cruz_healthcare_debate_0041,['states']
+465,20170207_Sanders_Cruz_healthcare_debate_0624,"['you', 'care', 'you', 'that', 'people', 'insurance', 'that', 'them', 'who']"
+466,20170207_Sanders_Cruz_healthcare_debate_0265,['most']
+467,20170207_Sanders_Cruz_healthcare_debate_0314,"['you', 'that']"
+468,20170207_Sanders_Cruz_healthcare_debate_0360,"['i', 'cameras', 'you', 'that']"
+469,20170207_Sanders_Cruz_healthcare_debate_0521,"['we', 'people']"
+470,20170207_Sanders_Cruz_healthcare_debate_0521,"['we', 'people']"
+471,20170207_Sanders_Cruz_healthcare_debate_0521,"['we', 'people']"
+472,20170207_Sanders_Cruz_healthcare_debate_0484,"['29ers', 'that', 'obamacare']"
+473,20170207_Sanders_Cruz_healthcare_debate_0687,"['it', 'i', 'outcomes']"
+474,20170207_Sanders_Cruz_healthcare_debate_0687,"['it', 'i', 'outcomes']"
+475,20170207_Sanders_Cruz_healthcare_debate_0936,"['we', 'we']"
+476,20170207_Sanders_Cruz_healthcare_debate_0123,['bernie']
+477,20170216_Trump_press_conference_0105,"['we', 'people', 'they', 'that', 'it']"
+478,20170216_Trump_press_conference_0106,"['i', 'it']"
+479,20170216_Trump_press_conference_0177,"['we', 'we', 'we']"
+480,20170216_Trump_press_conference_0178,"['i', 'i', 'that', 'i']"
+481,20170216_Trump_press_conference_0448,"['i', 'you']"
+482,20170216_Trump_press_conference_0036,"['market', 'you']"
+483,20170216_Trump_press_conference_0037,"['which', 'it']"
+484,20170216_Trump_press_conference_0722,"['we', 'clinton']"
+485,20170216_Trump_press_conference_0277,"['it', 'press']"
+486,20170216_Trump_press_conference_0471,"['wikileaks', 'i', 'they']"
+487,20170216_Trump_press_conference_0543,"['you', 'they', 'they']"
+488,20170216_Trump_press_conference_0469,['i']
+489,20170216_Trump_press_conference_0963,[]
+490,20170218_Trump_Florida_0156,['we']
+491,20170218_Trump_Florida_0161,[]
+492,20170218_Trump_Florida_0379,['we']
+493,20170218_Trump_Florida_0331,"['you', 'country', 'we', 'these']"
+494,20170224_Tump_CPAC_0200,"['victory', 'nobody']"
+495,20170224_Tump_CPAC_0223,"['it', 'you']"
+496,20170224_Tump_CPAC_0224,"['she', 'thing', 'i', 'that']"
+497,20170224_Tump_CPAC_0261,['we']
+498,20170224_Tump_CPAC_0422,"['one', 'they', 'we']"
+499,20170224_Tump_CPAC_0257,"['we', 'those', 'that', 'i']"
+500,20170224_Tump_CPAC_0337,"['we', 'offers']"
+501,20170228_Trump_Congress_joint_session_0202,['premiums']
+502,20170228_Trump_Congress_joint_session_0320,"['i', 'that']"
+503,20170228_Trump_Congress_joint_session_0322,[]
+504,20170228_Trump_Congress_joint_session_0086,"['we', 'we', 'that']"
+505,20170228_Trump_Congress_joint_session_0088,"['ones', 'i', 'i']"
+506,20170228_Trump_Congress_joint_session_0047,"['we', 'it', 'we']"
+507,20170228_Trump_Congress_joint_session_0077,['we']
+508,20170228_Trump_Congress_joint_session_0079,['communities']
+509,20170228_Trump_Congress_joint_session_0187,"['america', 'infrastructure']"
+510,20170228_Trump_Congress_joint_session_0137,[]
+511,20170228_Trump_Congress_joint_session_0206,"['bevin', 'obamacare', 'it']"
+512,20170228_Trump_Congress_joint_session_0213,['obamacare']
+513,20170228_Trump_Congress_joint_session_0349,"['it', 'we', 'we', 'that']"
+514,20170228_Trump_Congress_joint_session_0351,[]
+515,20170228_Trump_Congress_joint_session_0353,['partners']
+516,20170315_Trump_Nashville_0296,['premiums']
+517,20170315_Trump_Nashville_0090,['budget']
+518,20170315_Trump_Nashville_0177,['we']
+519,20170323_Trump_Times_Interview_0018,['they']
+520,20170323_Trump_Times_Interview_0067,[]
+521,20170323_Trump_Times_Interview_0067,[]
+522,20170323_Trump_Times_Interview_0077,['muslims']
+523,20170323_Trump_Times_Interview_0022,"['you', 'i', 'it', 'he']"
+524,20170323_Trump_Times_Interview_0023,['it']
+525,20170323_Trump_Times_Interview_0024,"['they', 'i', 'allies']"
+526,20170323_Trump_Times_Interview_0185,"['germany', 'i', 'we', 'you', 'they']"
+527,20170323_Trump_Times_Interview_0075,"['one', 'you', 'this', 'people']"
+528,20170323_Trump_Times_Interview_0075,"['one', 'you', 'this', 'people']"
+529,20170323_Trump_Times_Interview_0149,['article']
+530,20170323_Trump_Times_Interview_0270,"['i', 'i', 'you', 'statistics', 'they', 'you', 'that', 'i']"
+531,20170323_Trump_Times_Interview_0270,"['i', 'i', 'you', 'statistics', 'they', 'you', 'that', 'i']"
+532,20170323_Trump_Times_Interview_0270,"['i', 'i', 'you', 'statistics', 'they', 'you', 'that', 'i']"
+533,20170404_Trump_CEO_TownHall_0103,"['we', 'you', 'nobody']"
+534,20170404_Trump_CEO_TownHall_0103,"['we', 'you', 'nobody']"
+535,20170404_Trump_CEO_TownHall_0105,"['they', 'it', 'they']"
+536,20170404_Trump_CEO_TownHall_0105,"['they', 'it', 'they']"
+537,20170404_Trump_CEO_TownHall_0304,['we']
+538,20170404_Trump_CEO_TownHall_0305,"['you', 'it']"
+539,20170404_Trump_CEO_TownHall_0307,['we']
+540,20170404_Trump_CEO_TownHall_0287,"['one', '4.6', 'you', 'you', 'you']"
+541,20170404_Trump_CEO_TownHall_0293,"['you', 'you', 'you', 'you', 'you', 'what', 'which', 'you', 'people']"
+542,20170424_Trump_AP_interview_0070,['i']
+543,20170424_Trump_AP_interview_0535,"['i', 'i', 'days']"
+544,20170424_Trump_AP_interview_0412,['wikileaks']
+545,20170424_Trump_AP_interview_0387,['we']
+546,20170424_Trump_AP_interview_0387,['we']
+547,20170430_Trumo_CBS_FactTheNation_0511,['husband']
+548,20170430_Trumo_CBS_FactTheNation_0007,"['i', 'i', 'i']"
+549,20170512_Trump_NBC_holt_interview_0184,"['obama', 'he']"
+550,20170601_Trump_Paris_Climate_0059,['china']
+551,20170713_Trump_Roberston_interiew_0079,['arabia']
+552,20170713_Trump_Roberston_interiew_0244,"['i', 'one']"
+553,20170713_Trump_Roberston_interiew_0249,['it']
+554,20170713_Trump_Roberston_interiew_0257,"['you', 'farm']"
+555,20170713_Trump_Roberston_interiew_0257,"['you', 'farm']"
+556,20170713_Trump_Roberston_interiew_0313,"['they', 'which']"
+557,20170713_Trump_Roberston_interiew_0313,"['they', 'which']"
+558,20170713_Trump_Roberston_interiew_0314,['it']
+559,20170713_Trump_Roberston_interiew_0314,['it']
+560,20170724_Trump_Healthcare_0095,['obamacare']
+561,20170803_Trump_WV_0163,"['them', 'she', 'that']"
+562,20170822_Trump_phoenix_0204,"['i', 'you', 'you', 'cnn']"
+563,20170822_Trump_phoenix_0259,"['i', 'wages', 'we', 'we', 'you', 'wages']"
+564,20170822_Trump_phoenix_0017,"['crowds', 'people', 'you']"
+565,20170822_Trump_phoenix_0116,"['time', 'they', 'crowds']"
+566,20170822_Trump_phoenix_0509,['arizona']
+567,20170822_Trump_phoenix_0509,['arizona']
+568,20170822_Trump_phoenix_0604,['we']
+569,20170822_Trump_phoenix_0424,"['who', 'people']"
+570,20170822_Trump_phoenix_0325,"['times', 'i', 'coverage', 'it', 'they', 'they']"
+571,20170919_Trump_UNGA_0149,"['states', 'we']"
+572,20170919_Trump_UNGA_0150,"['we', 'anybody']"
+573,20170919_Trump_UNGA_0042,"['we', 'constitution']"
+574,20170919_Trump_UNGA_0103,"['we', 'regime', 'we', 'it']"
+575,20180426_Trump_Fox_Friends_0036,"['i', 'i']"
+576,20180426_Trump_Fox_Friends_0038,"['all', 'they']"
+577,20180426_Trump_Fox_Friends_0038,"['all', 'they']"
+578,20180426_Trump_Fox_Friends_0315,"['kanye', 'he']"
+579,20180426_Trump_Fox_Friends_0316,['he']
+580,20180426_Trump_Fox_Friends_0317,['he']
+581,20180426_Trump_Fox_Friends_0544,"['i', 'i', 'i', 'that']"
+582,20180426_Trump_Fox_Friends_0545,"['it', 'democrats', 'they', 'this']"
+583,20180426_Trump_Fox_Friends_0545,"['it', 'democrats', 'they', 'this']"
+584,20180426_Trump_Fox_Friends_0553,"['that', 'you', 'that']"
+585,20180426_Trump_Fox_Friends_0554,['you']
+586,20180504_Trumo_NRA_0381,['lawmakers']
+587,20180504_Trumo_NRA_0408,"['we', 'we', 'guys']"
+588,20180504_Trumo_NRA_0132,"['guy', 'you', 'he']"
+589,20180504_Trumo_NRA_0133,[]
+590,20180504_Trumo_NRA_0134,[]
+591,20180504_Trumo_NRA_0345,[]
+592,20180504_Trumo_NRA_0378,"['we', 'we', 'they']"
+593,20180525_Trump_Naval_0176,['we']
+594,20180612_Trump_Singapore_0436,['we']
+595,20180612_Trump_Singapore_0438,['they']
+596,20180612_Trump_Singapore_0438,['they']
+597,20180615_Trump_lawn_0219,['we']
+598,20180615_Trump_lawn_0220,"['i', 'others']"
+599,20180615_Trump_lawn_0221,"['i', 'they', 'you', 'it']"
+600,20180615_Trump_lawn_0163,"['that', 'democrats']"
+601,20180615_Trump_lawn_0164,"['we', 'they', 'the']"
+602,20180615_Trump_lawn_0160,"['president', 'people', 'you']"
+603,20180615_Trump_lawn_0442,['we']
+604,20180628_Trump_NorthDakota_0295,"['everybody', 'pelosi']"
+605,20180628_Trump_NorthDakota_0346,['we']
+606,20180628_Trump_NorthDakota_0346,['we']
+607,20180628_Trump_NorthDakota_0348,"['we', 'wall']"
+608,20180628_Trump_NorthDakota_0348,"['we', 'wall']"
+609,20180628_Trump_NorthDakota_0568,['wages']
+610,20180712_Trump_NATO_0008,"['i', 'it', 'amount']"
+611,20180712_Trump_NATO_0009,['it']
+612,20180712_Trump_NATO_0067,"['states', 'you']"
+613,20180712_Trump_NATO_0521,"['state', 'you', 'it', 'we', 'i', 'that', 'reagan', 'he']"
+614,20180712_Trump_NATO_0647,['i']
+615,20180712_Trump_NATO_0648,['i']
+616,20180731_Trump_Tampa_0323,['person']
+617,20180731_Trump_Tampa_0381,['democrats']
+618,20180731_Trump_Tampa_0257,['we']
+619,20180731_Trump_Tampa_0261,['this']
+620,20180731_Trump_Tampa_0377,"['we', 'we', 'we', 'we', 'we', 'we', 'we', 'we']"
+621,20180731_Trump_Tampa_0373,"['men', 'that']"
+622,20180731_Trump_Tampa_0373,"['men', 'that']"
+623,20180731_Trump_Tampa_0446,['we']
+624,20180821_Trump_Charleston_0036,['steel']
+625,20180821_Trump_Charleston_0037,['they']
+626,20180821_Trump_Charleston_0651,"['canada', 'which', 'we', 'products', 'this']"
+627,20180821_Trump_Charleston_0666,"['we', 'we']"
+628,20180821_Trump_Charleston_0570,"['states', 'i', 'that']"
+629,20180821_Trump_Charleston_0314,"['wall', 'wall']"
+630,20180821_Trump_Charleston_0320,"['it', 'we', 'it']"
+631,20180821_Trump_Charleston_0340,['i']
+632,20181015_60_min_0001,"['you', 'change']"
+633,20181015_60_min_0001,"['you', 'change']"
+634,20181015_60_min_0004,"['i', 'it', 'i']"
+635,20181015_60_min_0004,"['i', 'it', 'i']"
+636,20181015_60_min_0005,"['i', 'it']"
+637,20181015_60_min_0209,"['i', 'we', 'china']"
+638,20181015_60_min_0209,"['i', 'we', 'china']"
+639,20181015_60_min_0209,"['i', 'we', 'china']"
+640,20181015_60_min_0264,['we']
+641,20181015_60_min_0300,"['i', 'that']"
+642,20181015_60_min_0373,['they']
+643,20181015_60_min_0397,[]
+644,20181015_60_min_0397,[]
+645,20181015_60_min_0401,[]
+646,20181015_60_min_0401,[]
+647,20181015_60_min_0402,"['you', 'obama']"
+648,20181015_60_min_0402,"['you', 'obama']"
+649,20181015_60_min_0405,"['you', 'children']"
+650,20181015_60_min_0405,"['you', 'children']"
+651,20181015_60_min_0086,['i']
+652,20181102_Trump_Huntington_0160,"['democrats', 'i', 'you', 'you', 'caravan']"
+653,20181102_Trump_Huntington_0169,['caravan']
+654,20181102_Trump_Huntington_0494,['percent']
+655,20181102_Trump_Huntington_0148,['they']
+656,20181102_Trump_Huntington_0148,['they']
+657,20181102_Trump_Huntington_0156,"['we', 'we']"
+658,20181102_Trump_Huntington_0157,"['i', 'you', 'military']"
+659,20181102_Trump_Huntington_0665,"['we', 'they']"
+660,20181112_trump_pelosi_0292,['security']
+661,20181112_trump_pelosi_0292,['security']
+662,20181112_trump_pelosi_0293,"['experts', 'you', 'which']"
+663,20181112_trump_pelosi_0293,"['experts', 'you', 'which']"
+664,20181112_trump_pelosi_0183,['we']
+665,20181112_trump_pelosi_0358,"['people', 'it']"
+666,20190304_Trump_CPAC_1553,"['that', 'they', 'they', 'you']"
+667,20190304_Trump_CPAC_1561,"['they', 'they']"
+668,20190304_Trump_CPAC_1797,"['they', 'they']"
+669,20190304_Trump_CPAC_1806,"['i', 'that', 'it']"
+670,20190304_Trump_CPAC_1578,"['they', 'who', 'they']"
+671,20190304_Trump_CPAC_1578,"['they', 'who', 'they']"
+672,20190304_Trump_CPAC_0567,['we']
+673,20190304_Trump_CPAC_1180,['it']
+674,20190304_Trump_CPAC_0276,['mueller']
+675,20190304_Trump_CPAC_1412,[]
+676,20190304_Trump_CPAC_1521,['nobody']
+677,20190304_Trump_CPAC_1521,['nobody']
+678,20190304_Trump_CPAC_1522,['percent']
+679,20190304_Trump_CPAC_1522,['percent']
+680,20190619_Trump_Campain_Florida_0163,"['we', 'we', 'we', 'time', 'we']"
+681,20190619_Trump_Campain_Florida_0361,"['i', 'we', 'you', 'me', 'i']"
+682,20190730_democratic_debate_Detroit_1_0471,"['that', 'i', 'math', 'which', 'i', 'it', 'hospitals']"
+683,20190730_democratic_debate_Detroit_1_0472,"['i', 'i', 'what']"
+684,20190730_democratic_debate_Detroit_1_0473,"['they', 'we']"
+685,20190730_democratic_debate_Detroit_1_0521,"['problem', 'statute', 'what']"
+686,20190730_democratic_debate_Detroit_1_0137,['we']
+687,20190730_democratic_debate_Detroit_1_0138,"['people', 'industry']"
+688,20190730_democratic_debate_Detroit_1_1540,['we']
+689,20190730_democratic_debate_Detroit_1_1541,['we']
+690,20190730_democratic_debate_Detroit_1_1542,['we']
+691,20190730_democratic_debate_Detroit_1_1543,['we']
+692,20190731_democratic_debate_Detroit_2_0586,"['you', 'i', 'i', 'that']"
+693,20190912_democratic_debate_0460,"['difference', 'i', 'you', 'you', 'i']"
+694,20190912_democratic_debate_0461,[]
+695,20190912_democratic_debate_0462,['they']
+696,20190912_democratic_debate_0364,"['million', 'they', 'they', 'employer']"
+697,20190912_democratic_debate_0739,"['%', 'we']"
+698,20190912_democratic_debate_0941,['we']
+699,20190912_democratic_debate_0942,['we']
+700,20190912_democratic_debate_0584,"['it', 'we', 'that', 'we']"
+701,20190912_democratic_debate_0910,"['i', 'senators', ""'s"", ""'s"", 'it']"

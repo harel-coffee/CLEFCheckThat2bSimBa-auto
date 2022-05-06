@@ -1,0 +1,703 @@
+,input_claim_ids,named_entities
+0,20121023_third_presidential_debate_0959,"[['U.S.', 3434750, 'Q30']]"
+1,20121023_third_presidential_debate_0985,"[['America', 'not available', 'not available'], ['$4,300', 'not available', 'not available'], ['23 million', 'not available', 'not available'], ['Americans', 'not available', 'not available']]"
+2,20121023_third_presidential_debate_0753,"[['unemployment', 31741, 'Q41171'], ['general population', 19008450, 'Q40357']]"
+3,20121023_third_presidential_debate_0473,"[['Olympics', 'not available', 'not available']]"
+4,20121023_third_presidential_debate_0609,"[['Israel', 9282173, 'Q801']]"
+5,20121023_third_presidential_debate_0088,"[['Governor Romney', 426208, 'Q4496'], ['alQaida', 1921, 'Q34490'], ['months ago', 1160837, 'Q3488489'], ['geopolitical', 163225, 'Q159385'], ['America', 'not available', 'not available'], ['Russia', 25391, 'Q159'], ['alQaida', 1921, 'Q34490'], ['Russia', 25391, 'Q159']]"
+6,20121023_third_presidential_debate_0459,"[['$2 trillion', 'not available', 'not available'], ['$5 trillion', 'not available', 'not available'], ['tax cuts', 455990, 'Q7689423'], ['closing loopholes', 3995922, 'Q17512045']]"
+7,20121023_third_presidential_debate_0605,"[['Middle East', 19323, 'Q7204'], ['America', 'not available', 'not available']]"
+8,20121023_third_presidential_debate_0684,"[['2008', 'not available', 'not available'], ['bin Laden', 22468, 'Q1317'], ['heaven and earth', 2124881, 'Q994716'], ['Pakistan', 23235, 'Q843']]"
+9,20121023_third_presidential_debate_0884,"[['shipped overseas', 235890, 'Q61515']]"
+10,20150805_GOP_cleveland_0767,"[['America', 'not available', 'not available'], ['rounding errors', 432450, 'Q2145211'], ['30 percent', 'not available', 'not available']]"
+11,20150805_GOP_cleveland_0595,"[['Canadianstyle', 'not available', 'not available']]"
+12,20151013_democrats_las_vegas_0097,"[['AfricanAmerican', 'not available', 'not available'], ['youth unemployment', 38000781, 'Q4261734'], ['51 percent', 'not available', 'not available']]"
+13,20151013_democrats_las_vegas_0098,"[['Hispanic', 56120, 'Q1211934'], ['youth unemployment', 38000781, 'Q4261734'], ['36 percent', 'not available', 'not available']]"
+14,20151013_democrats_las_vegas_0146,"[['gold standard', 37412, 'Q173509']]"
+15,20151013_democrats_las_vegas_0146,"[['gold standard', 37412, 'Q173509']]"
+16,20151013_democrats_las_vegas_0305,"[['Senator Sanders', 361176, 'Q359442'], ['Brady', 339841, 'Q313381'], ['background checks', 880871, 'Q1087682']]"
+17,20151013_democrats_las_vegas_0096,"[['America', 'not available', 'not available'], ['Earth', 9228, 'Q2']]"
+18,20151013_democrats_las_vegas_0962,"[['Keystone', 'not available', 'not available'], ['Keystone', 'not available', 'not available']]"
+19,20151013_democrats_las_vegas_0182,"[['newborn baby', 73165, 'Q998'], ['family', 56276, 'Q35409'], ['paid leave', 665986, 'Q328566'], ['Earth', 9228, 'Q2']]"
+20,20151013_democrats_las_vegas_1475,"[['criminal justice', 168219, 'Q117488'], ['Wall Street', 37274, 'Q11690'], ['young people', 379472, 'Q190007'], ['smoking marijuana', 4512923, 'Q1310896']]"
+21,20151013_democrats_las_vegas_1227,"[['whistleblower', 33821, 'Q26102']]"
+22,20151013_democrats_las_vegas_1228,"[['whistleblower', 33821, 'Q26102']]"
+23,20151028_GOP_boulder_0923,"[['92 percent', 'not available', 'not available'], ['92 percent', 'not available', 'not available'], [""Obama's first term"", 20082093, 'Q1379733']]"
+24,20151028_GOP_boulder_0923,"[['92 percent', 'not available', 'not available'], ['92 percent', 'not available', 'not available'], [""Obama's first term"", 20082093, 'Q1379733']]"
+25,20151028_GOP_boulder_0115,"[['90 percent', 'not available', 'not available']]"
+26,20151028_GOP_boulder_0367,"[['35', 'not available', 'not available']]"
+27,20151028_GOP_boulder_0842,"[['Democrats', 'not available', 'not available'], ['political opponents', 37307, 'Q217105'], ['60', 'not available', 'not available']]"
+28,20151028_GOP_boulder_0949,"[['Mannatech', 7512869, 'Q3372572'], ['nutritional supplements', 104444, 'Q645858']]"
+29,20151028_GOP_boulder_0950,"[['cure autism', 4078100, 'Q3333688'], ['$7 million', 'not available', 'not available'], ['deceptive marketing', 932935, 'Q1371586'], ['lawsuit', 113258, 'Q697327'], ['Texas', 29810, 'Q1439']]"
+30,20151028_GOP_boulder_0958,[]
+31,20151028_GOP_boulder_0744,"[['50', 'not available', 'not available'], ['average cost', 166789, 'Q240673'], ['$34,000', 'not available', 'not available']]"
+32,20151028_GOP_boulder_0916,"[['Barack Obama', 534366, 'Q76'], ['big government', 705994, 'Q2985410'], ['$733', 'not available', 'not available']]"
+33,20151028_GOP_boulder_1032,"[['Mark Zuckerberg', 2844938, 'Q36215'], ['H1B', 418646, 'Q974595']]"
+34,20151028_GOP_boulder_1435,"[['Florida', 18933066, 'Q812'], ['accountability', 161973, 'Q5190563'], ['John', 'not available', 'not available']]"
+35,20151110_GOP_milwuakee_0389,"[['1.5 million', 'not available', 'not available'], ['illegal immigrants', 7124412, 'Q856681']]"
+36,20151110_GOP_milwuakee_0275,"[['Democrats', 'not available', 'not available']]"
+37,20151110_GOP_milwuakee_0888,"[['$500 billion', 'not available', 'not available'], ['China', 5405, 'Q148'], ['$75 billion', 'not available', 'not available'], ['Japan', 15573, 'Q17']]"
+38,20151110_GOP_milwuakee_0875,"[['China', 5405, 'Q148']]"
+39,20151110_GOP_milwuakee_0656,"[['IRS code', 1836327, 'Q1666281'], ['Bible', 3390, 'Q1845']]"
+40,20151110_GOP_milwuakee_0566,"[['cancer', 105219, 'Q12078'], ['preexisting condition', 24355242, 'Q7239228']]"
+41,20151110_GOP_milwuakee_0567,[]
+42,20151110_GOP_milwuakee_0568,"[['Obamacare', 25226624, 'Q1414593']]"
+43,20151110_GOP_milwuakee_0313,"[['Hillary Clinton', 5043192, 'Q6294'], ['government official', 725182, 'Q599151'], ['terrorist attack', 30636, 'Q7283']]"
+44,20160112_Obama_state_of_the_union_0013,[]
+45,20160112_Obama_state_of_the_union_0076,[]
+46,20160112_Obama_state_of_the_union_0145,"[['Guantanamo', 'not available', 'not available']]"
+47,20160112_Obama_state_of_the_union_0071,"[['America', 'not available', 'not available']]"
+48,20160112_Obama_state_of_the_union_0072,"[['rhetoric', 25447, 'Q81009'], ['America', 'not available', 'not available']]"
+49,20160112_Obama_state_of_the_union_0073,"[['United States of America', 3434750, 'Q30'], ['powerful nation', 61398, 'Q1489259']]"
+50,20160115_GOP_charlston_0192,[]
+51,20160115_GOP_charlston_0192,[]
+52,20160115_GOP_charlston_0195,[]
+53,20160115_GOP_charlston_0196,[]
+54,20160115_GOP_charlston_0197,[]
+55,20160115_GOP_charlston_0195,[]
+56,20160115_GOP_charlston_0196,[]
+57,20160115_GOP_charlston_0197,[]
+58,20160115_GOP_charlston_0473,"[['Governor Christie', 5847204, 'Q63879'], ['Barack Obama', 534366, 'Q76'], ['Common Core', 27684253, 'Q5153317'], ['gun control', 44276, 'Q1328508'], ['Sonia Sotomayor', 2095829, 'Q11107'], ['Planned Parenthood', 503193, 'Q2553262']]"
+59,20160115_GOP_charlston_0138,"[['FBI', 11127, 'Q8333']]"
+60,20160115_GOP_charlston_0139,"[['100', 'not available', 'not available'], ['White House', 33057, 'Q35525']]"
+61,20160115_GOP_charlston_0740,"[['Eric Holder', 17568685, 'Q312644'], ['brainwashing', 20948, 'Q743263'], ['American', 'not available', 'not available']]"
+62,20160115_GOP_charlston_0047,"[['Americans', 'not available', 'not available'], ['1977', 'not available', 'not available']]"
+63,20160115_GOP_charlston_0048,[]
+64,20160115_GOP_charlston_0049,"[['ObamaClinton', 'not available', 'not available']]"
+65,20160115_GOP_charlston_1591,"[['Ted', 29342321, 'Q775254'], ['Senate', 'not available', 'not available'], ['Rand Paul', 11914121, 'Q463557']]"
+66,20160115_GOP_charlston_1616,"[['Marco', 'not available', 'not available'], ['$697 billion', 'not available', 'not available']]"
+67,20160115_GOP_charlston_1579,"[['birthright citizenship', 7545952, 'Q4917105']]"
+68,20160115_GOP_charlston_1579,"[['birthright citizenship', 7545952, 'Q4917105']]"
+69,20160117_democrats_charlston_0413,"[['50', 'not available', 'not available']]"
+70,20160117_democrats_charlston_0414,[]
+71,20160117_democrats_charlston_0129,"[['Senator Sanders', 361176, 'Q359442'], ['immunity', 298565, 'Q10283558'], ['members of congress', 223225, 'Q14761450']]"
+72,20160117_democrats_charlston_0122,"[['Charleston Loophole', 'not available', 'not available']]"
+73,20160117_democrats_charlston_0994,"[['Cold War', 325329, 'Q8683'], ['Soviet Union', 26779, 'Q15180']]"
+74,20160117_democrats_charlston_0995,"[['10 percent', 'not available', 'not available'], ['fighting ISIS', 50787604, 'Q24467647'], ['international terrorism', 30636, 'Q7283']]"
+75,20160204_democrats_new_hampshire_0623,"[['national security', 240468, 'Q258307'], ['military intelligence', 146678, 'Q4168000'], ['Senator Sanders', 361176, 'Q359442'], ['foreign policy', 233404, 'Q181648'], ['national security', 240468, 'Q258307'], ['Iranian troops', 48259216, 'Q2465096'], ['Syria', 7515849, 'Q858'], ['doorstep', 29675473, 'Q5297252'], ['Israel', 9282173, 'Q801']]"
+76,20160204_democrats_new_hampshire_0024,"[['1 percent', 'not available', 'not available']]"
+77,20160204_democrats_new_hampshire_1062,"[['lower wages', 39426115, 'Q5531013']]"
+78,20160204_democrats_new_hampshire_1032,[]
+79,20160204_democrats_new_hampshire_1032,[]
+80,20160211_democrats_milwuakee_0052,"[['Americans', 'not available', 'not available'], ['15', 'not available', 'not available']]"
+81,20160211_democrats_milwuakee_0097,[]
+82,20160211_democrats_milwuakee_0332,"[['AfricanAmerican', 'not available', 'not available'], ['Wall Street collapse', 157649, 'Q201684']]"
+83,20160211_democrats_milwuakee_0909,[]
+84,20160213_GOP_greenville_0210,"[['Iraq', 7515928, 'Q796']]"
+85,20160213_GOP_greenville_0210,"[['Iraq', 7515928, 'Q796']]"
+86,20160213_GOP_greenville_0212,[]
+87,20160213_GOP_greenville_0216,"[['Middle East', 19323, 'Q7204']]"
+88,20160213_GOP_greenville_1002,[]
+89,20160213_GOP_greenville_1528,"[['Joseph Stalin', 15641, 'Q855'], ['America', 29833, 'Q828'], ['spiritual life', 28387, 'Q168796'], ['patriotism', 24552, 'Q6241'], ['morality', 43254, 'Q48324']]"
+90,20160225_GOP_texas_1801,"[['Libya', 17633, 'Q1016']]"
+91,20160225_GOP_texas_1172,"[['Donald', 'not available', 'not available'], ['socialized medicine', 59111, 'Q17082008']]"
+92,20160225_GOP_texas_1173,"[['socialized health care', 59111, 'Q17082008']]"
+93,20160225_GOP_texas_0120,[]
+94,20160225_GOP_texas_0121,[]
+95,20160225_GOP_texas_0962,"[['Obamacare', 25226624, 'Q1414593'], ['bailout', 1469849, 'Q44312'], ['Obamacare', 25226624, 'Q1414593']]"
+96,20160225_GOP_texas_0963,"[['lobbyists', 48934, 'Q187117'], ['bailout', 1469849, 'Q44312'], ['public money', 1203070, 'Q1929688'], ['taxpayer money', 1203070, 'Q1929688'], ['bail', 170652, 'Q162351'], ['lost money', 48492600, 'Q21646656']]"
+97,20160225_GOP_texas_0964,[]
+98,20160303_GOP_michigan_0237,"[['Hillary Clinton', 5043192, 'Q6294'], ['11', 'not available', 'not available']]"
+99,20160303_GOP_michigan_0418,"[['United States', 3434750, 'Q30']]"
+100,20160303_GOP_michigan_1158,"[['Better Business Bureau', 479512, 'Q1044785']]"
+101,20160303_GOP_michigan_0574,"[['Donald Trump', 4848272, 'Q22686'], ['Hillary Clinton', 5043192, 'Q6294']]"
+102,20160303_GOP_michigan_0575,[]
+103,20160303_GOP_michigan_0940,"[['family', 56276, 'Q35409'], ['flies', 63663, 'Q25312'], ['World Trade Center', 45645094, 'Q11235'], ['flies', 63663, 'Q25312'], ['World Trade Center', 45645094, 'Q11235'], ['family', 56276, 'Q35409'], ['wasn', 18468646, 'Q7946755'], ['Iraq', 7515928, 'Q796']]"
+104,20160303_GOP_michigan_0940,"[['family', 56276, 'Q35409'], ['flies', 63663, 'Q25312'], ['World Trade Center', 45645094, 'Q11235'], ['flies', 63663, 'Q25312'], ['World Trade Center', 45645094, 'Q11235'], ['family', 56276, 'Q35409'], ['wasn', 18468646, 'Q7946755'], ['Iraq', 7515928, 'Q796']]"
+105,20160309_democrats_miami_0110,[]
+106,20160309_democrats_miami_0241,"[['Secretary Clinton', 5043192, 'Q6294'], ['governor of New York', 12861, 'Q2347975'], ['Elliot Spitzer', 21378255, 'Q11675'], [""driver's license"", 39527321, 'Q205647'], ['New York State', 8210131, 'Q1384']]"
+107,20160309_democrats_miami_0245,"[['Clinton', 'not available', 'not available']]"
+108,20160309_democrats_miami_0778,"[['Latino', 273285, 'Q2035701'], ['17', 'not available', 'not available'], ['20', 'not available', 'not available'], ['36 percent', 'not available', 'not available'], ['underemployed', 318784, 'Q1931244']]"
+109,20160309_democrats_miami_0784,"[['AfricanAmerican', 'not available', 'not available'], ['underemployed', 318784, 'Q1931244'], ['51 percent', 'not available', 'not available']]"
+110,20160309_democrats_miami_0784,"[['AfricanAmerican', 'not available', 'not available'], ['underemployed', 318784, 'Q1931244'], ['51 percent', 'not available', 'not available']]"
+111,20160309_democrats_miami_0939,"[['clean power plan', 47423035, 'Q21028610'], ['Senator Sanders', 361176, 'Q359442']]"
+112,20160311_GOP_miami_0844,"[['Israel', 9282173, 'Q801'], ['Donald', 'not available', 'not available'], ['Israel', 9282173, 'Q801'], ['Palestinians', 23267, 'Q201190']]"
+113,20160311_GOP_miami_0149,"[['TPP', 'not available', 'not available'], ['TPP', 'not available', 'not available']]"
+114,20160329_kasich_milwuakee_0029,"[['Hillary Clinton', 5043192, 'Q6294']]"
+115,20160329_kasich_milwuakee_0259,"[['$2 billion', 'not available', 'not available']]"
+116,20160331_Cruz_Miluakee_0100,"[['radical Islamic terrorism', 566821, 'Q847731']]"
+117,20160331_Cruz_Miluakee_0173,"[['CNN', 62028, 'Q48340'], ['FOX', 'not available', 'not available'], ['$2 billion dollars', 'not available', 'not available']]"
+118,20160401_Trump_Milwaukee_0653,[]
+119,20160401_Trump_Milwaukee_0334,"[['Obama', 'not available', 'not available'], ['world today', 20770345, 'Q7776059'], ['global warming', 5042951, 'Q7942']]"
+120,20160401_Trump_Milwaukee_0812,"[['Senator', 'not available', 'not available'], ['Cruz', 'not available', 'not available']]"
+121,20160401_Trump_Milwaukee_0052,"[['security camera', 87179, 'Q242256']]"
+122,20160404_Hillary_meet_the_press_0153,"[['Democratic', 5043544, 'Q29552'], ['Wall Street', 37274, 'Q11690'], ['hedge fund', 14412, 'Q105611']]"
+123,20160404_Hillary_meet_the_press_0174,[]
+124,20160415_NY_democratic_debate_0541,"[['Congress', 'not available', 'not available'], ['NRA', 70101, 'Q863259']]"
+125,20160415_NY_democratic_debate_0300,"[['United States Senate', 24909346, 'Q66096']]"
+126,20160415_NY_democratic_debate_0557,"[['Senator Sanders', 361176, 'Q359442']]"
+127,20160415_NY_democratic_debate_1183,"[['privatize', 24661, 'Q161500']]"
+128,20160415_NY_democratic_debate_0433,"[['starvation', 215891, 'Q853930'], ['minimum wage', 18862, 'Q186228'], ['$7.25', 'not available', 'not available'], ['$15', 'not available', 'not available']]"
+129,20160415_NY_democratic_debate_0434,"[['Secretary Clinton', 'not available', 'not available'], ['$12', 'not available', 'not available']]"
+130,20160415_NY_democratic_debate_1295,"[['reproductive health care', 2159778, 'Q1981388']]"
+131,20160417_meet_the_press_0059,"[['Clinton', 'not available', 'not available'], ['Hillary', 'not available', 'not available']]"
+132,20160424_meet_the_press_0384,"[['poor people', 64959, 'Q10294']]"
+133,20160508_Trump_meet_the_press_0366,"[['tax cut', 455990, 'Q7689423']]"
+134,20160508_Trump_meet_the_press_0375,[]
+135,20160508_Trump_meet_the_press_0375,[]
+136,20160508_Trump_meet_the_press_0395,[]
+137,20160508_Trump_meet_the_press_0394,[]
+138,20160508_Trump_meet_the_press_0394,[]
+139,20160529_Sanders_MeetThePress_0184,"[['War in Iraq', 5043324, 'Q545449']]"
+140,20160529_Sanders_MeetThePress_0179,"[['Wall Street', 37274, 'Q11690']]"
+141,20160529_Sanders_MeetThePress_0181,"[['minimum wage', 18862, 'Q186228'], ['15', 'not available', 'not available']]"
+142,20160529_Sanders_MeetThePress_0182,"[['$12', 'not available', 'not available']]"
+143,20160529_Sanders_MeetThePress_0185,"[['fracking', 32544339, 'Q890794']]"
+144,20160622_Trump_NY_Soho_0022,"[['Hillary Clinton', 5043192, 'Q6294'], ['world class', 784781, 'Q208511'], ['email', 9738, 'Q9158'], ['Bosnia', 'not available', 'not available'], ['young girls', 1903987, 'Q4207629'], ['handing', 8637, 'Q36794']]"
+145,20160622_Trump_NY_Soho_0022,"[['Hillary Clinton', 5043192, 'Q6294'], ['world class', 784781, 'Q208511'], ['email', 9738, 'Q9158'], ['Bosnia', 'not available', 'not available'], ['young girls', 1903987, 'Q4207629'], ['handing', 8637, 'Q36794']]"
+146,20160622_Trump_NY_Soho_0061,"[['Hillary Clinton', 5043192, 'Q6294'], ['Bill Clinton', 3356, 'Q1124'], ['NAFTA', 22050, 'Q181574'], ['China', 5405, 'Q148'], ['World Trade Organization', 33873, 'Q7825']]"
+147,20160622_Trump_NY_Soho_0061,"[['Hillary Clinton', 5043192, 'Q6294'], ['Bill Clinton', 3356, 'Q1124'], ['NAFTA', 22050, 'Q181574'], ['China', 5405, 'Q148'], ['World Trade Organization', 33873, 'Q7825']]"
+148,20160622_Trump_NY_Soho_0062,"[['manufacturing jobs', 246816, 'Q1191714'], ['Hillarybacked', 'not available', 'not available']]"
+149,20160622_Trump_NY_Soho_0062,"[['manufacturing jobs', 246816, 'Q1191714'], ['Hillarybacked', 'not available', 'not available']]"
+150,20160622_Trump_NY_Soho_0064,"[['China', 5405, 'Q148'], ['intellectual property', 14724, 'Q131257']]"
+151,20160622_Trump_NY_Soho_0065,"[['Hillary Clinton', 5043192, 'Q6294'], ['China', 5405, 'Q148'], ['China', 5405, 'Q148']]"
+152,20160622_Trump_NY_Soho_0073,[]
+153,20160622_Trump_NY_Soho_0074,"[['30,000', 'not available', 'not available']]"
+154,20160622_Trump_NY_Soho_0074,"[['30,000', 'not available', 'not available']]"
+155,20160622_Trump_NY_Soho_0084,"[['Hillary Clinton', 5043192, 'Q6294'], [""3 o'clock"", 'not available', 'not available']]"
+156,20160622_Trump_NY_Soho_0085,"[['Ambassador Stevens', 36993318, 'Q294536'], ['Libya', 17633, 'Q1016']]"
+157,20160622_Trump_NY_Soho_0086,"[[""Clinton's State Department"", 31975, 'Q789915']]"
+158,20160622_Trump_NY_Soho_0108,[]
+159,20160622_Trump_NY_Soho_0108,[]
+160,20160622_Trump_NY_Soho_0113,"[['Hillary Clinton', 5043192, 'Q6294'], ['550%', 'not available', 'not available'], ['Syrian refugees', 32465077, 'Q559076'], ['United States', 3434750, 'Q30'], ['President Obama', 534366, 'Q76']]"
+161,20160622_Trump_NY_Soho_0114,[]
+162,20160622_Trump_NY_Soho_0115,"[['recent immigrants', 4599312, 'Q131288'], ['terrorist activity', 30636, 'Q7283'], ['U.S.', 3434750, 'Q30']]"
+163,20160622_Trump_NY_Soho_0130,"[['Hillary Clinton', 5043192, 'Q6294'], ['$25 million', 'not available', 'not available'], ['Saudi Arabia', 349303, 'Q851'], ['gay', 5488304, 'Q6636'], ['punishable by death', 5902, 'Q8454']]"
+164,20160622_Trump_NY_Soho_0131,"[['Hillary', 5043192, 'Q6294'], ['Kuwait', 7515890, 'Q817'], ['Qatar', 8238258, 'Q846'], ['Oman', 22316, 'Q842'], ['LGBT', 66936, 'Q17884']]"
+165,20160622_Trump_NY_Soho_0141,"[['100', 'not available', 'not available'], ['immigration enforcement', 5044573, 'Q185367'], ['open borders', 17373971, 'Q17163396'], ['United States', 3434750, 'Q30']]"
+166,20160622_Trump_NY_Soho_0151,"[['Hillary Clinton', 5043192, 'Q6294'], ['America', 'not available', 'not available']]"
+167,20160622_Trump_NY_Soho_0157,"[['tax reform', 308206, 'Q2346630']]"
+168,20160622_Trump_NY_Soho_0157,"[['tax reform', 308206, 'Q2346630']]"
+169,20160622_Trump_NY_Soho_0179,[]
+170,20160622_Trump_NY_Soho_0179,[]
+171,20160622_Trump_NY_Soho_0183,"[['real wages', 934386, 'Q1932544'], ['18', 'not available', 'not available']]"
+172,20160721_Trump_draft_RNC_0020,"[['Trump', 'not available', 'not available'], ['NICK GASS', 'not available', 'not available']]"
+173,20160721_Trump_draft_RNC_0021,"[['Homicides', 123451, 'Q149086'], ['17%', 'not available', 'not available'], ['Americas', 29833, 'Q828']]"
+174,20160721_Trump_draft_RNC_0022,"[['25', 'not available', 'not available']]"
+175,20160721_Trump_draft_RNC_0029,"[['illegal immigrant', 7124412, 'Q856681'], ['2015', 'not available', 'not available']]"
+176,20160721_Trump_draft_RNC_0040,"[['2 million', 'not available', 'not available'], ['Latinos', 'not available', 'not available'], ['oath of office', 22258, 'Q774482'], ['years ago', 34341, 'Q577']]"
+177,20160721_Trump_draft_RNC_0047,"[['roads and bridges', 174521, 'Q121359'], ['Americans', 'not available', 'not available'], ['food stamps', 659087, 'Q556318']]"
+178,20160721_Trump_draft_RNC_0043,"[['trade deficit', 4810, 'Q192796'], ['$800 billion', 'not available', 'not available']]"
+179,20160721_Trump_draft_RNC_0187,"[['America', 29833, 'Q828'], ['manufacturing jobs', 246816, 'Q1191714'], ['1997', 'not available', 'not available'], ['trade deals', 10883, 'Q5335686'], ['Bill', 377411, 'Q686822'], ['Hillary Clinton', 5043192, 'Q6294']]"
+180,20160721_Trump_draft_RNC_0187,"[['America', 29833, 'Q828'], ['manufacturing jobs', 246816, 'Q1191714'], ['1997', 'not available', 'not available'], ['trade deals', 10883, 'Q5335686'], ['Bill', 377411, 'Q686822'], ['Hillary Clinton', 5043192, 'Q6294']]"
+181,20160721_Trump_draft_RNC_0160,"[['Sanctuary Cities', 10511069, 'Q3559093']]"
+182,20160721_Trump_draft_RNC_0058,"[['2009', 'not available', 'not available'], ['ISIS', 9087364, 'Q2429253']]"
+183,20160721_Trump_draft_RNC_0148,"[['550%', 'not available', 'not available'], ['Syrian refugees', 32465077, 'Q559076'], ['refugee', 45547, 'Q131572'], ['President Obama', 534366, 'Q76']]"
+184,20160721_Trump_draft_RNC_0149,[]
+185,20160721_Trump_draft_RNC_0205,"[['Hillary Clinton', 5043192, 'Q6294'], ['presidential race', 21377251, 'Q699872'], ['Democrat', 5043544, 'Q29552'], ['Republican', 32070, 'Q29468']]"
+186,20160721_Trump_draft_RNC_0206,"[['Middleincome Americans', 'not available', 'not available']]"
+187,20160721_Trump_draft_RNC_0207,"[['America', 'not available', 'not available']]"
+188,20160721_Trump_draft_RNC_0207,"[['America', 'not available', 'not available']]"
+189,20160721_Trump_draft_RNC_0230,"[['2nd', 'not available', 'not available']]"
+190,20160721_Trump_draft_RNC_0042,"[['Household incomes', 5755439, 'Q3250811'], ['$4,000', 'not available', 'not available'], ['2000', 'not available', 'not available']]"
+191,20160721_Trump_draft_RNC_0234,"[['Lyndon Johnson', 54533, 'Q9640'], ['political views', 75469, 'Q7257']]"
+192,20160721_Trump_draft_RNC_0028,"[['180,000', 'not available', 'not available'], ['illegal immigrants', 7124412, 'Q856681']]"
+193,20160901_Trump_immigration_Phoenix_0063,"[['Hillary Clinton', 5043192, 'Q6294'], ['100', 'not available', 'not available'], ['Obamacare', 25226624, 'Q1414593'], ['Social Security', 48728, 'Q13479957'], ['Medicare', 58353, 'Q559392'], ['illegal immigrants', 5044573, 'Q185367'], ['federal budget', 3874731, 'Q7883083']]"
+194,20160901_Trump_immigration_Phoenix_0048,"[['11 million', 'not available', 'not available'], ['illegal immigrants', 7124412, 'Q856681']]"
+195,20160901_Trump_immigration_Phoenix_0043,"[['illegal immigration', 5044573, 'Q185367'], ['$113 billion dollars', 'not available', 'not available']]"
+196,20160901_Trump_immigration_Phoenix_0061,"[['President Obama', 534366, 'Q76'], ['Hillary Clinton', 5043192, 'Q6294'], ['dereliction of duty', 275148, 'Q5262522'], ['American', 'not available', 'not available'], ['open borders', 532101, 'Q1453988']]"
+197,20160901_Trump_immigration_Phoenix_0061,"[['President Obama', 534366, 'Q76'], ['Hillary Clinton', 5043192, 'Q6294'], ['dereliction of duty', 275148, 'Q5262522'], ['American', 'not available', 'not available'], ['open borders', 532101, 'Q1453988']]"
+198,20160901_Trump_immigration_Phoenix_0061,"[['President Obama', 534366, 'Q76'], ['Hillary Clinton', 5043192, 'Q6294'], ['dereliction of duty', 275148, 'Q5262522'], ['American', 'not available', 'not available'], ['open borders', 532101, 'Q1453988']]"
+199,20160901_Trump_immigration_Phoenix_0124,"[['23', 'not available', 'not available'], ['ordered to leave', 26132634, 'Q245122'], ['United States', 3434750, 'Q30'], ['violent criminals', 273381, 'Q491040']]"
+200,20160901_Trump_immigration_Phoenix_0082,"[['2013', 'not available', 'not available'], ['Obama Administration', 20082093, 'Q1379733'], ['300,000', 'not available', 'not available'], ['U.S.', 3434750, 'Q30'], ['ICE', 216537, 'Q943091'], ['deportation', 412990, 'Q379693']]"
+201,20160901_Trump_immigration_Phoenix_0052,"[['American', 'not available', 'not available'], ['11 million', 'not available', 'not available'], ['illegal immigrants', 7124412, 'Q856681']]"
+202,20160901_Trump_immigration_Phoenix_0135,"[['illegal immigrants', 7124412, 'Q856681'], ['temporary visas', 330265, 'Q170404']]"
+203,20160907_NBC_commander_in_chief_forum_0073,"[['Classified material', 252857, 'Q846498'], ['Department of Justice', 52563, 'Q1553390']]"
+204,20160907_NBC_commander_in_chief_forum_0165,"[['Hes', 'not available', 'not available'], ['intervention in Libya', 31142430, 'Q210714'], ['Gadhafi', 53029, 'Q19878']]"
+205,20160907_NBC_commander_in_chief_forum_0221,[]
+206,20160907_NBC_commander_in_chief_forum_0240,"[['suicide', 16831059, 'Q10737'], ['general population', 19008450, 'Q40357']]"
+207,20160907_NBC_commander_in_chief_forum_0241,[]
+208,20160907_NBC_commander_in_chief_forum_0358,"[['war in Iraq', 5043324, 'Q545449']]"
+209,20160907_NBC_commander_in_chief_forum_0378,"[['Republican', 32070, 'Q29468']]"
+210,20160907_NBC_commander_in_chief_forum_0439,"[['ISIS', 9087364, 'Q2429253']]"
+211,20160907_NBC_commander_in_chief_forum_0545,"[['Barack Obama', 534366, 'Q76'], ['China', 5405, 'Q148'], ['dont', 4685050, 'Q5205876'], ['stairs', 256015, 'Q12511']]"
+212,20160907_NBC_commander_in_chief_forum_0564,"[['82 percent', 'not available', 'not available'], ['approval rating', 277315, 'Q49958']]"
+213,20160907_NBC_commander_in_chief_forum_0571,"[['OK', 'not available', 'not available']]"
+214,20160907_NBC_commander_in_chief_forum_0611,"[['Hillary Clinton', 5043192, 'Q6294'], ['months ago', 1160837, 'Q3488489']]"
+215,20160926_1pres_0064,"[['piggy bank', 236305, 'Q221994'], ['China', 5405, 'Q148']]"
+216,20160926_1pres_0098,[]
+217,20160926_1pres_0165,"[['Donald', 'not available', 'not available']]"
+218,20160926_1pres_0166,"[['2006', 'not available', 'not available']]"
+219,20160926_1pres_0175,"[['Donald', 'not available', 'not available'], ['$5 trillion', 'not available', 'not available'], ['middleclass', 251534, 'Q241588'], ['3.5 million', 'not available', 'not available'], ['recession', 19337279, 'Q154510']]"
+220,20160926_1pres_0179,"[['Donald', 19179331, 'Q6550'], ['climate change', 47512, 'Q125928'], ['hoax', 52239, 'Q190084'], ['Chinese', 'not available', 'not available']]"
+221,20160926_1pres_0183,[]
+222,20160926_1pres_0202,"[['Obama administration', 20082093, 'Q1379733'], ['230', 'not available', 'not available']]"
+223,20160926_1pres_0203,[]
+224,20160926_1pres_0232,"[['multinational', 214491, 'Q161726'], ['CAFTA', 458970, 'Q1155342']]"
+225,20160926_1pres_0252,"[['New England', 21531764, 'Q18389'], ['Ohio', 22199, 'Q1397'], ['Pennsylvania', 23332, 'Q1400'], ['Secretary Clinton', 'not available', 'not available'], ['30, 40', 'not available', 'not available'], ['50 percent', 'not available', 'not available']]"
+226,20160926_1pres_0264,"[['gold standard', 37412, 'Q173509']]"
+227,20160926_1pres_0265,[]
+228,20160926_1pres_0424,"[['Great Depression', 19283335, 'Q8698']]"
+229,20160926_1pres_0440,"[['Donald Trump', 4848272, 'Q22686'], ['financial statement', 93755, 'Q192907']]"
+230,20160926_1pres_0493,"[['American', 'not available', 'not available'], ['federal taxes', 3136256, 'Q1308197'], ['casino license', 3757192, 'Q5520196'], ['federal income tax', 3136256, 'Q1308197']]"
+231,20160926_1pres_0575,[]
+232,20160926_1pres_0579,"[['national debt of the United States', 322221, 'Q1138777']]"
+233,20160926_1pres_0629,"[['epidemic', 66981, 'Q44512'], ['African American', 2154, 'Q49085']]"
+234,20160926_1pres_0645,"[['Chicago', 6886, 'Q1297'], ['January 1st', 'not available', 'not available']]"
+235,20160926_1pres_0711,"[['AfricanAmerican', 'not available', 'not available']]"
+236,20160926_1pres_0748,"[['superpredator', 1872736, 'Q19067']]"
+237,20160926_1pres_0819,[]
+238,20160926_1pres_0868,"[['Donald', 'not available', 'not available'], ['1973', 'not available', 'not available'], ['Justice Department', 52563, 'Q1553390'], ['racial discrimination', 25613, 'Q8461'], ['AfricanAmericans', 'not available', 'not available']]"
+239,20160926_1pres_0927,"[['Donald', 'not available', 'not available'], ['Putin', 32817, 'Q7747'], ['Americans', 'not available', 'not available']]"
+240,20160926_1pres_1010,"[['Libya', 17633, 'Q1016'], ['Gadhafi', 53029, 'Q19878']]"
+241,20160926_1pres_1010,"[['Libya', 17633, 'Q1016'], ['Gadhafi', 53029, 'Q19878']]"
+242,20160926_1pres_1057,[]
+243,20160926_1pres_1059,"[['NATO', 21133, 'Q7184']]"
+244,20160926_1pres_1079,"[['war in Iraq', 5043324, 'Q545449']]"
+245,20160926_1pres_1148,"[['John Kerry', 5122699, 'Q22316'], ['President Obama', 534366, 'Q76'], [""Iran's nuclear program"", 721807, 'Q329891']]"
+246,20160926_1pres_1182,[]
+247,20160926_1pres_1182,[]
+248,20160926_1pres_1214,"[['China', 5405, 'Q148'], ['North Korea', 21255, 'Q423']]"
+249,20160926_1pres_1215,"[['Iran deal', 42015113, 'Q17001802']]"
+250,20160926_1pres_1222,"[['$400 million', 'not available', 'not available']]"
+251,20160926_1pres_1225,"[['$1.7 billion', 'not available', 'not available']]"
+252,20160926_1pres_1326,"[['pregnancy', 1771587, 'Q11995']]"
+253,20160926_1pres_1326,"[['pregnancy', 1771587, 'Q11995']]"
+254,20161005_vice_pres_0075,"[['Mexicans', 'not available', 'not available'], ['rapists', 7980471, 'Q47092'], ['President Obama', 534366, 'Q76'], ['wasn', 18468646, 'Q7946755'], ['United States', 3434750, 'Q30']]"
+255,20161005_vice_pres_0050,"[['war on coal', 49021455, 'Q25028472'], ['health care reform', 25226624, 'Q1414593'], ['Obamacare', 25226624, 'Q1414593'], ['American', 'not available', 'not available']]"
+256,20161005_vice_pres_0097,"[['Vladimir Putin', 32817, 'Q7747'], ['great leader', 225153, 'Q181800']]"
+257,20161005_vice_pres_0153,"[['Iraq', 7515928, 'Q796'], ['ISIS', 9087364, 'Q2429253'], ['Hillary Clinton', 5043192, 'Q6294']]"
+258,20161005_vice_pres_0117,"[['Clinton Foundation', 6115598, 'Q1974620']]"
+259,20161005_vice_pres_0179,"[['past administration', 14458938, 'Q7241106'], ['Hillary Clinton', 5043192, 'Q6294'], ['national debt', 322221, 'Q1138777']]"
+260,20161005_vice_pres_0184,"[['$4 billion', 'not available', 'not available']]"
+261,20161005_vice_pres_0192,[]
+262,20161005_vice_pres_0215,"[['Donald Trump', 4848272, 'Q22686']]"
+263,20161005_vice_pres_0216,"[['Donald Trump', 4848272, 'Q22686'], ['Mike Pence', 391324, 'Q24313'], ['federal minimum wage', 11477230, 'Q6865497']]"
+264,20161005_vice_pres_0234,"[['Hillary Clinton', 5043192, 'Q6294'], ['Senator', 'not available', 'not available'], ['Kaine', 1480165, 'Q2000166']]"
+265,20161005_vice_pres_0236,"[['Fifteen million', 'not available', 'not available']]"
+266,20161005_vice_pres_0305,"[['Richard Nixon', 25473, 'Q9588']]"
+267,20161005_vice_pres_0326,"[['Donald Trump', 4848272, 'Q22686'], ['Social Security', 48728, 'Q13479957'], ['Ponzi scheme', 47185, 'Q219407'], ['privatization', 24661, 'Q161500']]"
+268,20161005_vice_pres_0437,"[['40', 'not available', 'not available'], ['50', 'not available', 'not available'], ['fatal incident', 30873679, 'Q382286']]"
+269,20161005_vice_pres_0438,"[['AfricanAmericans', 'not available', 'not available'], ['Latinos', 'not available', 'not available']]"
+270,20161005_vice_pres_0497,"[['Hillary Clinton', 5043192, 'Q6294'], ['Tim Kaine', 1461855, 'Q359888'], ['open borders', 17373971, 'Q17163396'], ['catch and release', 490901, 'Q588332'], ['sanctuary cities', 10511069, 'Q3559093']]"
+271,20161005_vice_pres_0497,"[['Hillary Clinton', 5043192, 'Q6294'], ['Tim Kaine', 1461855, 'Q359888'], ['open borders', 17373971, 'Q17163396'], ['catch and release', 490901, 'Q588332'], ['sanctuary cities', 10511069, 'Q3559093']]"
+272,20161005_vice_pres_0497,"[['Hillary Clinton', 5043192, 'Q6294'], ['Tim Kaine', 1461855, 'Q359888'], ['open borders', 17373971, 'Q17163396'], ['catch and release', 490901, 'Q588332'], ['sanctuary cities', 10511069, 'Q3559093']]"
+273,20161005_vice_pres_0639,[]
+274,20161005_vice_pres_0639,[]
+275,20161005_vice_pres_0640,"[['John McCain', 43715, 'Q10390']]"
+276,20161005_vice_pres_0640,"[['John McCain', 43715, 'Q10390']]"
+277,20161005_vice_pres_0965,"[['nuclear weapons', 21785, 'Q12802']]"
+278,20161005_vice_pres_0968,"[['Senator', 'not available', 'not available']]"
+279,20161005_vice_pres_0682,"[['nuclear weapons program', 872930, 'Q1992486']]"
+280,20161005_vice_pres_0694,"[['Hillary Clinton', 5043192, 'Q6294'], ['Tim Kaine', 1461855, 'Q359888'], ['Syrian refugee', 32465077, 'Q559076'], ['500', 'not available', 'not available']]"
+281,20161005_vice_pres_0737,"[['Elaine', 'not available', 'not available'], ['director of the FBI', 5861065, 'Q1057168'], ['homeland security', 42105, 'Q181467'], ['Syria', 7515849, 'Q858']]"
+282,20161005_vice_pres_1039,"[['$400 million', 'not available', 'not available'], ['ransom payment', 49279763, 'Q1641906'], ['Americans', 'not available', 'not available'], ['mullahs', 330652, 'Q188942'], ['Tehran', 57654, 'Q3616']]"
+283,20161005_vice_pres_1134,"[['AIDS drugs', 203312, 'Q1142055'], ['11.5 million', 'not available', 'not available']]"
+284,20161005_vice_pres_1163,"[['10 cents', 'not available', 'not available'], ['Clinton Foundation', 6115598, 'Q1974620']]"
+285,20161005_vice_pres_1163,"[['10 cents', 'not available', 'not available'], ['Clinton Foundation', 6115598, 'Q1974620']]"
+286,20161005_vice_pres_1163,"[['10 cents', 'not available', 'not available'], ['Clinton Foundation', 6115598, 'Q1974620']]"
+287,20161005_vice_pres_1163,"[['10 cents', 'not available', 'not available'], ['Clinton Foundation', 6115598, 'Q1974620']]"
+288,20161005_vice_pres_1162,"[['$20,000', 'not available', 'not available'], ['Donald Trump', 4848272, 'Q22686']]"
+289,20161005_vice_pres_1259,"[['ClintonKaine', 'not available', 'not available']]"
+290,20161005_vice_pres_1325,"[['aisle', 297058, 'Q939723'], ['8 million', 'not available', 'not available'], ['health insurance', 490201, 'Q334911'], ['150,000', 'not available', 'not available'], ['Indiana', 21883857, 'Q1415']]"
+291,20161010_2pres_0035,"[['Obamacare', 25226624, 'Q1414593'], ['health insurance', 490201, 'Q334911'], ['health care', 261925, 'Q31207'], ['68 percent, 59 percent, 71 percent', 'not available', 'not available'], ['Iran deal', 42015113, 'Q17001802'], ['$150 billion', 'not available', 'not available'], ['terrorist state', 29660, 'Q623179']]"
+292,20161010_2pres_0037,"[['$800 billion', 'not available', 'not available'], ['trade deficit', 4810, 'Q192796']]"
+293,20161010_2pres_0039,"[['$800 billion', 'not available', 'not available']]"
+294,20161010_2pres_0112,[]
+295,20161010_2pres_0117,"[['African Americans', 2154, 'Q49085'], ['Latinos', 'not available', 'not available'], ['POWs', 25008, 'Q179637'], ['Muslims', 'not available', 'not available']]"
+296,20161010_2pres_0117,"[['African Americans', 2154, 'Q49085'], ['Latinos', 'not available', 'not available'], ['POWs', 25008, 'Q179637'], ['Muslims', 'not available', 'not available']]"
+297,20161010_2pres_0117,"[['African Americans', 2154, 'Q49085'], ['Latinos', 'not available', 'not available'], ['POWs', 25008, 'Q179637'], ['Muslims', 'not available', 'not available']]"
+298,20161010_2pres_0117,"[['African Americans', 2154, 'Q49085'], ['Latinos', 'not available', 'not available'], ['POWs', 25008, 'Q179637'], ['Muslims', 'not available', 'not available']]"
+299,20161010_2pres_0130,"[['Senate', 'not available', 'not available'], ['New York', 8210131, 'Q1384'], ['Hillary', 5043192, 'Q6294'], ['upstate New York', 447990, 'Q2018923']]"
+300,20161010_2pres_0165,[]
+301,20161010_2pres_0190,"[['Sidney Blumenthal', 1769759, 'Q3483318'], ['campaign manager', 994226, 'Q5027838']]"
+302,20161010_2pres_0208,"[['subpoena', 223929, 'Q5608642'], ['subpoena', 223929, 'Q5608642'], ['subpoena', 223929, 'Q5608642'], ['33,000', 'not available', 'not available'], ['acid wash', 11365247, 'Q7619091'], ['bleach', 12873937, 'Q11587']]"
+303,20161010_2pres_0346,"[['90 percent', 'not available', 'not available'], ['health insurance coverage', 10916458, 'Q5691354']]"
+304,20161010_2pres_0347,[]
+305,20161010_2pres_0370,"[['Canada', 5042916, 'Q16']]"
+306,20161010_2pres_0437,"[['Muslims', 'not available', 'not available']]"
+307,20161010_2pres_0439,"[['San Bernardino', 108016, 'Q486168'], ['14', 'not available', 'not available']]"
+308,20161010_2pres_0500,"[['Hillary Clinton', 5043192, 'Q6294'], ['550 percent', 'not available', 'not available'], ['Obama', 'not available', 'not available']]"
+309,20161010_2pres_0501,"[['550 percent', 'not available', 'not available']]"
+310,20161010_2pres_0525,"[['propaganda', 23203, 'Q7281'], ['Donald Trump', 4848272, 'Q22686'], ['Muslims', 'not available', 'not available']]"
+311,20161010_2pres_0534,"[['war in Iraq', 5043324, 'Q545449']]"
+312,20161010_2pres_0554,[]
+313,20161010_2pres_0605,"[['Putin', 32817, 'Q7747']]"
+314,20161010_2pres_0607,"[['Putin', 32817, 'Q7747']]"
+315,20161010_2pres_0675,[]
+316,20161010_2pres_0772,"[['Eight million', 'not available', 'not available'], ['health insurance', 490201, 'Q334911'], ['Democrats', 'not available', 'not available'], ['Republicans', 32070, 'Q29468'], [""Children's Health Insurance Program"", 635422, 'Q7603105']]"
+317,20161010_2pres_0776,"[[""women's rights"", 145439, 'Q223569'], ['negotiated a treaty', 1803515, 'Q7837060'], ['Russia', 25391, 'Q159'], ['nuclear weapons', 21785, 'Q12802']]"
+318,20161010_2pres_0834,[]
+319,20161010_2pres_0838,[]
+320,20161010_2pres_0839,[]
+321,20161010_2pres_0840,[]
+322,20161010_2pres_0821,"[['socalled', 9288384, 'Q375796'], ['line in the sand', 16091876, 'Q6553263']]"
+323,20161010_2pres_0851,"[['ISIS', 9087364, 'Q2429253']]"
+324,20161010_2pres_0858,"[['Russia', 25391, 'Q159'], ['Assad', 364813, 'Q44329'], ['Iran', 14653, 'Q794'], ['Iran deal', 42015113, 'Q17001802'], ['$150 billion', 'not available', 'not available'], ['$1.7 billion', 'not available', 'not available']]"
+325,20161010_2pres_0981,"[['TPP', 'not available', 'not available']]"
+326,20161010_2pres_0982,"[['gold standard', 37412, 'Q173509']]"
+327,20161010_2pres_1035,[]
+328,20161010_2pres_1036,"[['Bullying', 432459, 'Q240126']]"
+329,20161010_2pres_1069,"[['45', 'not available', 'not available']]"
+330,20161010_2pres_1081,"[['wasn', 18468646, 'Q7946755'], ['sex tape', 19541404, 'Q2013521']]"
+331,20161010_2pres_1168,"[['Second Amendment', 31655, 'Q210645'], ['Hillary Clinton', 5043192, 'Q6294']]"
+332,20161019_3pres_0029,[]
+333,20161019_3pres_0029,[]
+334,20161019_3pres_0030,"[['marriage equality', 92656, 'Q17422'], ['Roe v. Wade', 68493, 'Q300950'], ['Citizens United', 22097436, 'Q1092602'], ['Supreme Court', 4913027, 'Q190752']]"
+335,20161019_3pres_0048,"[['Second Amendment', 31655, 'Q210645']]"
+336,20161019_3pres_0078,"[['Chris', 'not available', 'not available'], ['Second Amendment', 31655, 'Q210645'], ['District of Columbia', 108956, 'Q61']]"
+337,20161019_3pres_0074,"[['33,000', 'not available', 'not available']]"
+338,20161019_3pres_0139,[]
+339,20161019_3pres_0189,"[['Hillary', 5043192, 'Q6294']]"
+340,20161019_3pres_0190,"[['open borders', 17373971, 'Q17163396']]"
+341,20161019_3pres_0200,"[['heroin', 14034, 'Q60168'], ['southern border', 2817606, 'Q1057263']]"
+342,20161019_3pres_0201,[]
+343,20161019_3pres_0228,"[['Phoenix', 'not available', 'not available']]"
+344,20161019_3pres_0255,"[['Hillary Clinton', 5043192, 'Q6294']]"
+345,20161019_3pres_0256,"[['Hillary Clinton', 5043192, 'Q6294'], ['2006', 36164, 'Q2021']]"
+346,20161019_3pres_0273,"[['Trump Tower', 1295216, 'Q868772']]"
+347,20161019_3pres_0339,"[['550 percent', 'not available', 'not available'], ['Barack Obama', 534366, 'Q76']]"
+348,20161019_3pres_0345,"[['Putin', 32817, 'Q7747']]"
+349,20161019_3pres_0363,"[['Russians', 59510, 'Q49542'], ['cyberattacks', 37925700, 'Q4071928'], ['United States of America', 3434750, 'Q30'], ['espionage', 10501, 'Q165950'], ['Putin', 32817, 'Q7747'], ['NATO', 21133, 'Q7184']]"
+350,20161019_3pres_0366,"[['17', 'not available', 'not available'], ['17', 'not available', 'not available'], ['intelligence agencies', 81014, 'Q47913'], ['espionage', 10501, 'Q165950'], ['cyberattacks', 3369375, 'Q849340'], ['Kremlin', 381075, 'Q133274']]"
+351,20161019_3pres_0424,"[['Japan', 15573, 'Q17'], ['Korea', 'not available', 'not available'], ['Saudi Arabia', 349303, 'Q851']]"
+352,20161019_3pres_0468,"[['World War II', 32927, 'Q362'], ['infrastructure', 174521, 'Q121359'], ['advanced manufacturing', 18159068, 'Q4686346']]"
+353,20161019_3pres_0485,"[['cut taxes', 455990, 'Q7689423'], ['tax breaks', 2151903, 'Q7689411'], ['$20 trillion', 'not available', 'not available'], ['economics', 9223, 'Q8134']]"
+354,20161019_3pres_0490,[]
+355,20161019_3pres_0607,"[['gold standard', 37412, 'Q173509']]"
+356,20161019_3pres_0609,"[['gold standard', 37412, 'Q173509']]"
+357,20161019_3pres_0655,"[['State Department', 31975, 'Q789915'], ['$6 billion', 'not available', 'not available']]"
+358,20161019_3pres_0657,"[['State Department', 31975, 'Q789915'], ['$6 billion', 'not available', 'not available']]"
+359,20161019_3pres_0659,"[['$6 billion', 'not available', 'not available']]"
+360,20161019_3pres_0667,"[['Justice Department', 52563, 'Q1553390'], ['racial discrimination', 25613, 'Q8461'], ['apartment buildings', 265567, 'Q188507']]"
+361,20161019_3pres_0687,"[['ISIS', 9087364, 'Q2429253'], ['Obama', 'not available', 'not available'], ['Iraq', 7515928, 'Q796']]"
+362,20161019_3pres_0688,"[['ISIS', 9087364, 'Q2429253']]"
+363,20161019_3pres_0695,[]
+364,20161019_3pres_0699,[]
+365,20161019_3pres_0751,"[['33,000', 'not available', 'not available'], ['subpoena', 223929, 'Q5608642'], ['United States Congress', 31756, 'Q11268']]"
+366,20161019_3pres_0765,[]
+367,20161019_3pres_0423,[]
+368,20161019_3pres_0793,"[['Clinton Foundation', 6115598, 'Q1974620'], ['11 million', 'not available', 'not available']]"
+369,20161019_3pres_0815,"[['Saudi Arabia', 349303, 'Q851'], ['$25 million', 'not available', 'not available'], ['Qatar', 8238258, 'Q846']]"
+370,20161019_3pres_0815,"[['Saudi Arabia', 349303, 'Q851'], ['$25 million', 'not available', 'not available'], ['Qatar', 8238258, 'Q846']]"
+371,20161019_3pres_0818,[]
+372,20161019_3pres_0820,[]
+373,20161019_3pres_0820,[]
+374,20161019_3pres_0832,"[['Trump Foundation', 51561203, 'Q26840614'], ['Donald', 19179331, 'Q6550']]"
+375,20161019_3pres_0867,[]
+376,20161019_3pres_0877,"[['Buffett', 211518, 'Q47213'], ['millions of dollars', 4365327, 'Q7368619'], ['Soros', 6951166, 'Q12908'], ['George Soros', 6951166, 'Q12908'], ['millions of dollars', 4365327, 'Q7368619']]"
+377,20161019_3pres_0918,"[['Chris', 'not available', 'not available'], ['voter rolls', 1516039, 'Q702448'], ['millions of people', 10396793, 'Q2763'], ['registered to vote', 994892, 'Q1980404'], ['millions of people', 10396793, 'Q2763'], ['registered to vote', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+378,20161019_3pres_0942,"[['Emmy', 151921, 'Q123737'], ['TV program', 19508643, 'Q15416'], ['tweeting', 9988187, 'Q918'], ['Emmys', 151921, 'Q123737']]"
+379,20161019_3pres_1036,"[['Donald', 'not available', 'not available'], ['invasion of Iraq', 201936, 'Q107802']]"
+380,20161019_3pres_1037,[]
+381,20161019_3pres_1038,[]
+382,20161019_3pres_1039,[]
+383,20161019_3pres_1133,"[['$150 billion', 'not available', 'not available']]"
+384,20161019_3pres_1277,"[['60 percent, 70 percent, 80 percent', 'not available', 'not available']]"
+385,20161019_3pres_1329,"[['illegal immigrants', 7124412, 'Q856681']]"
+386,20170111_Trump_press_conference_0041,"[['news conferences', 28730792, 'Q272281']]"
+387,20170111_Trump_press_conference_0172,"[['Republican National Committee', 326350, 'Q2145369']]"
+388,20170111_Trump_press_conference_0203,"[['ISIS', 9087364, 'Q2429253']]"
+389,20170111_Trump_press_conference_0259,"[['months ago', 1160837, 'Q3488489']]"
+390,20170111_Trump_press_conference_0266,[]
+391,20170111_Trump_press_conference_0270,"[['Trump organization', 2565136, 'Q2462124'], ['great company', 19433970, 'Q1543015']]"
+392,20170111_Trump_press_conference_0287,[]
+393,20170111_Trump_press_conference_0277,"[['70', 'not available', 'not available'], ['IRS', 23430752, 'Q973587']]"
+394,20170111_Trump_press_conference_0278,[]
+395,20170111_Trump_press_conference_0387,"[['hotel room', 14276, 'Q27686']]"
+396,20170111_Trump_press_conference_0388,"[['emolument', 1650660, 'Q1742093']]"
+397,20170111_Trump_press_conference_0450,"[['a hundred percent', 'not available', 'not available'], ['17', 'not available', 'not available'], ['17', 'not available', 'not available']]"
+398,20170111_Trump_press_conference_0483,"[['United Technologies', 648947, 'Q1045758']]"
+399,20170111_Trump_press_conference_0498,"[['United States', 3434750, 'Q30'], ['96 million', 'not available', 'not available']]"
+400,20170111_Trump_press_conference_0498,"[['United States', 3434750, 'Q30'], ['96 million', 'not available', 'not available']]"
+401,20170120_Trump_inauguration_0027,[]
+402,20170120_Trump_inauguration_0032,[]
+403,20170120_Trump_inauguration_0032,[]
+404,20170120_Trump_inauguration_0032,[]
+405,20170120_Trump_inauguration_0033,[]
+406,20170120_Trump_inauguration_0033,[]
+407,20170120_Trump_inauguration_0033,[]
+408,20170120_Trump_inauguration_0033,[]
+409,20170120_Trump_inauguration_0040,[]
+410,20170120_Trump_inauguration_0041,"[['America', 'not available', 'not available'], ['infrastructure', 174521, 'Q121359']]"
+411,20170120_Trump_inauguration_0039,"[['American industry', 30557091, 'Q6753122']]"
+412,20170120_Trump_inauguration_0039,"[['American industry', 30557091, 'Q6753122']]"
+413,20170120_Trump_inauguration_0042,"[['Weve', 'not available', 'not available']]"
+414,20170120_Trump_inauguration_0061,"[['American', 'not available', 'not available'], ['nations of the world', 182178, 'Q252837']]"
+415,20170120_Trump_inauguration_0061,"[['American', 'not available', 'not available'], ['nations of the world', 182178, 'Q252837']]"
+416,20170120_Trump_inauguration_0061,"[['American', 'not available', 'not available'], ['nations of the world', 182178, 'Q252837']]"
+417,20170120_Trump_inauguration_0061,"[['American', 'not available', 'not available'], ['nations of the world', 182178, 'Q252837']]"
+418,20170126_Trump_ABC_0107,[]
+419,20170126_Trump_ABC_0107,[]
+420,20170126_Trump_ABC_0107,[]
+421,20170126_Trump_ABC_0107,[]
+422,20170126_Trump_ABC_0107,[]
+423,20170126_Trump_ABC_0107,[]
+424,20170126_Trump_ABC_0107,[]
+425,20170126_Trump_ABC_0107,[]
+426,20170126_Trump_ABC_0110,[]
+427,20170126_Trump_ABC_0110,[]
+428,20170126_Trump_ABC_0110,[]
+429,20170126_Trump_ABC_0110,[]
+430,20170126_Trump_ABC_0110,[]
+431,20170126_Trump_ABC_0110,[]
+432,20170126_Trump_ABC_0110,[]
+433,20170126_Trump_ABC_0110,[]
+434,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+435,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+436,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+437,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+438,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+439,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+440,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+441,20170126_Trump_ABC_0103,"[['voter registration', 994892, 'Q1980404'], ['registered to vote', 994892, 'Q1980404']]"
+442,20170126_Trump_ABC_0121,"[['democracy', 7959, 'Q7174'], ['free election', 1258004, 'Q1156016']]"
+443,20170126_Trump_ABC_0133,"[['voter fraud', 382165, 'Q692209']]"
+444,20170126_Trump_ABC_0178,[]
+445,20170126_Trump_ABC_0180,[]
+446,20170126_Trump_ABC_0679,[]
+447,20170126_Trump_ABC_0680,[]
+448,20170126_Trump_ABC_0319,[]
+449,20170126_Trump_ABC_0420,[]
+450,20170205_Trump_Oreilly_0141,"[['war in Iraq', 5043324, 'Q545449']]"
+451,20170205_Trump_Oreilly_0216,"[['sanctuary cities', 10511069, 'Q3559093']]"
+452,20170205_Trump_Oreilly_0216,"[['sanctuary cities', 10511069, 'Q3559093']]"
+453,20170205_Trump_Oreilly_0354,"[['three million', 'not available', 'not available'], ['illegal aliens', 1703155, 'Q473741']]"
+454,20170205_Trump_Oreilly_0360,"[['dead people', 8221, 'Q4'], ['dead people', 8221, 'Q4']]"
+455,20170205_Trump_Oreilly_0360,"[['dead people', 8221, 'Q4'], ['dead people', 8221, 'Q4']]"
+456,20170205_Trump_Oreilly_0360,"[['dead people', 8221, 'Q4'], ['dead people', 8221, 'Q4']]"
+457,20170205_Trump_Oreilly_0186,"[['ObamaCare', 25226624, 'Q1414593']]"
+458,20170205_Trump_Oreilly_0186,"[['ObamaCare', 25226624, 'Q1414593']]"
+459,20170205_Trump_Oreilly_0185,"[['ObamaCare', 25226624, 'Q1414593']]"
+460,20170205_Trump_Oreilly_0185,"[['ObamaCare', 25226624, 'Q1414593']]"
+461,20170205_Trump_Oreilly_0038,"[['$1.7 billion', 'not available', 'not available']]"
+462,20170205_Trump_Oreilly_0038,"[['$1.7 billion', 'not available', 'not available']]"
+463,20170207_Sanders_Cruz_healthcare_debate_0032,"[['preexisting condition', 24355242, 'Q7239228'], ['insurance companies', 15176, 'Q43183']]"
+464,20170207_Sanders_Cruz_healthcare_debate_0041,"[['United States', 3434750, 'Q30'], ['Earth', 9228, 'Q2']]"
+465,20170207_Sanders_Cruz_healthcare_debate_0624,"[['health care', 261925, 'Q31207'], ['Earth', 9228, 'Q2'], ['Obamacare', 25226624, 'Q1414593'], ['six million', 'not available', 'not available'], ['health insurance', 490201, 'Q334911'], ['LaRonda', 'not available', 'not available'], ['health insurance', 490201, 'Q334911']]"
+466,20170207_Sanders_Cruz_healthcare_debate_0265,"[['Obamacare', 25226624, 'Q1414593'], ['Medicaid', 55794, 'Q1141363']]"
+467,20170207_Sanders_Cruz_healthcare_debate_0314,"[['America', 'not available', 'not available'], ['Obamacare', 25226624, 'Q1414593']]"
+468,20170207_Sanders_Cruz_healthcare_debate_0360,"[['70 percent', 'not available', 'not available'], ['America', 'not available', 'not available'], ['Obamacare', 25226624, 'Q1414593'], ['health insurance plans', 490201, 'Q334911'], ['70 percent', 'not available', 'not available'], ['America', 'not available', 'not available']]"
+469,20170207_Sanders_Cruz_healthcare_debate_0521,[]
+470,20170207_Sanders_Cruz_healthcare_debate_0521,[]
+471,20170207_Sanders_Cruz_healthcare_debate_0521,[]
+472,20170207_Sanders_Cruz_healthcare_debate_0484,"[['millions of people', 10396793, 'Q2763'], ['29', 'not available', 'not available'], ['hours a week', 2016347, 'Q30722989'], ['Obamacare', 25226624, 'Q1414593'], ['30', 'not available', 'not available'], ['hours a week', 2016347, 'Q30722989']]"
+473,20170207_Sanders_Cruz_healthcare_debate_0687,"[['health outcomes', 80381, 'Q12147'], ['Medicaid', 55794, 'Q1141363']]"
+474,20170207_Sanders_Cruz_healthcare_debate_0687,"[['health outcomes', 80381, 'Q12147'], ['Medicaid', 55794, 'Q1141363']]"
+475,20170207_Sanders_Cruz_healthcare_debate_0936,"[['Affordable Care Act', 25226624, 'Q1414593'], ['$346 billion', 'not available', 'not available'], ['tax breaks', 2151903, 'Q7689411'], ['2 percent', 'not available', 'not available']]"
+476,20170207_Sanders_Cruz_healthcare_debate_0123,"[['Bernie', 'not available', 'not available'], ['helped write', 28398214, 'Q7080787'], ['Obamacare', 25226624, 'Q1414593']]"
+477,20170216_Trump_press_conference_0105,"[['306', 'not available', 'not available']]"
+478,20170216_Trump_press_conference_0106,"[['electoral college', 79771, 'Q1141323'], ['Ronald Reagan', 25433, 'Q9960']]"
+479,20170216_Trump_press_conference_0177,[]
+480,20170216_Trump_press_conference_0178,"[['80 percent', 'not available', 'not available'], ['80 percent', 'not available', 'not available']]"
+481,20170216_Trump_press_conference_0448,"[['Congress', 'not available', 'not available']]"
+482,20170216_Trump_press_conference_0036,"[['stock market', 52328, 'Q475000'], ['hit record', 2402033, 'Q2068728']]"
+483,20170216_Trump_press_conference_0037,"[['business world', 22697384, 'Q3477367']]"
+484,20170216_Trump_press_conference_0722,"[['Hillary Clinton', 5043192, 'Q6294'], ['Russia', 25391, 'Q159'], ['20 percent', 'not available', 'not available'], ['uranium', 31743, 'Q1098']]"
+485,20170216_Trump_press_conference_0277,[]
+486,20170216_Trump_press_conference_0471,"[['WikiLeaks', 8877168, 'Q359'], ['classified information', 3539962, 'Q4223055']]"
+487,20170216_Trump_press_conference_0543,[]
+488,20170216_Trump_press_conference_0469,"[['Russia', 25391, 'Q159']]"
+489,20170216_Trump_press_conference_0963,"[['Russia', 25391, 'Q159']]"
+490,20170218_Trump_Florida_0156,[]
+491,20170218_Trump_Florida_0161,[]
+492,20170218_Trump_Florida_0379,[]
+493,20170218_Trump_Florida_0331,"[['Obama', 'not available', 'not available']]"
+494,20170224_Tump_CPAC_0200,[]
+495,20170224_Tump_CPAC_0223,"[['super delegate', 489248, 'Q596690'], ['super delegate', 489248, 'Q596690']]"
+496,20170224_Tump_CPAC_0224,[]
+497,20170224_Tump_CPAC_0261,"[['Middle East', 19323, 'Q7204'], ['$6 trillion', 'not available', 'not available']]"
+498,20170224_Tump_CPAC_0422,[]
+499,20170224_Tump_CPAC_0257,[]
+500,20170224_Tump_CPAC_0337,"[['gang members', 80408, 'Q275186'], ['drug dealers', 218449, 'Q844924']]"
+501,20170228_Trump_Congress_joint_session_0202,"[['Obamacare', 25226624, 'Q1414593']]"
+502,20170228_Trump_Congress_joint_session_0320,[]
+503,20170228_Trump_Congress_joint_session_0322,"[['national defense', 92357, 'Q8473'], ['American history', 63876, 'Q131110']]"
+504,20170228_Trump_Congress_joint_session_0086,"[['gang members', 80408, 'Q275186'], ['drug dealers', 218449, 'Q844924'], ['prey', 57559, 'Q170430']]"
+505,20170228_Trump_Congress_joint_session_0088,[]
+506,20170228_Trump_Congress_joint_session_0047,"[['millions of dollars', 4365327, 'Q7368619'], ['F35', 11812, 'Q29261'], ['jet fighter', 10929, 'Q127771']]"
+507,20170228_Trump_Congress_joint_session_0077,"[['immigration laws', 5044573, 'Q185367']]"
+508,20170228_Trump_Congress_joint_session_0079,"[['billions and billions', 4407262, 'Q1152287']]"
+509,20170228_Trump_Congress_joint_session_0187,"[['America', 'not available', 'not available'], ['$6 trillion', 'not available', 'not available'], ['Middle East', 19323, 'Q7204'], ['infrastructure', 174521, 'Q121359']]"
+510,20170228_Trump_Congress_joint_session_0137,"[['American', 'not available', 'not available']]"
+511,20170228_Trump_Congress_joint_session_0206,"[['Matt Bevin', 40879017, 'Q19953601'], ['Kentucky', 16846, 'Q1603'], ['Obamacare', 25226624, 'Q1414593'], ['state of Kentucky', 16846, 'Q1603']]"
+512,20170228_Trump_Congress_joint_session_0213,"[['Obamacare', 25226624, 'Q1414593']]"
+513,20170228_Trump_Congress_joint_session_0349,"[['American', 'not available', 'not available'], ['security interests', 2916935, 'Q13579421'], ['strongly support', 14895319, 'Q7148032'], ['NATO', 21133, 'Q7184'], ['world wars', 142735, 'Q103495'], ['fascism', 11054, 'Q6223']]"
+514,20170228_Trump_Congress_joint_session_0351,"[['Cold War', 325329, 'Q8683'], ['communism', 9209651, 'Q6186']]"
+515,20170228_Trump_Congress_joint_session_0353,[]
+516,20170315_Trump_Nashville_0296,[]
+517,20170315_Trump_Nashville_0090,[]
+518,20170315_Trump_Nashville_0177,"[['50', 'not available', 'not available'], ['40percent', 'not available', 'not available'], ['illegal immigration', 7124412, 'Q856681'], ['Southern', 'not available', 'not available'], ['61 percent', 'not available', 'not available'], ['Inauguration Day', 3556902, 'Q263233'], ['61 percent', 'not available', 'not available']]"
+519,20170323_Trump_Times_Interview_0018,"[['Huma', 'not available', 'not available']]"
+520,20170323_Trump_Times_Interview_0067,"[['New York Times', 30680, 'Q9684'], ['Wiretapped', 91221, 'Q1067529'], ['Trump', 'not available', 'not available']]"
+521,20170323_Trump_Times_Interview_0067,"[['New York Times', 30680, 'Q9684'], ['Wiretapped', 91221, 'Q1067529'], ['Trump', 'not available', 'not available']]"
+522,20170323_Trump_Times_Interview_0077,"[['Muslims', 'not available', 'not available'], ['911', 'not available', 'not available'], ['New Jersey', 21648, 'Q1408']]"
+523,20170323_Trump_Times_Interview_0022,"[['tweeted', 9988187, 'Q918'], ['Hillary', 5043192, 'Q6294'], ['email', 9738, 'Q9158']]"
+524,20170323_Trump_Times_Interview_0023,"[['NATO', 21133, 'Q7184'], ['terrorism', 30636, 'Q7283']]"
+525,20170323_Trump_Times_Interview_0024,[]
+526,20170323_Trump_Times_Interview_0185,"[['Germany', 11867, 'Q183'], ['Germany', 11867, 'Q183'], ['NATO', 21133, 'Q7184']]"
+527,20170323_Trump_Times_Interview_0075,"[['three million', 'not available', 'not available'], ['undocumented people', 5044573, 'Q185367']]"
+528,20170323_Trump_Times_Interview_0075,"[['three million', 'not available', 'not available'], ['undocumented people', 5044573, 'Q185367']]"
+529,20170323_Trump_Times_Interview_0149,"[['Ted Cruz', 2500271, 'Q2036942'], ['Ted Cruz', 2500271, 'Q2036942'], ['Lee Harvey Oswald', 17652, 'Q48745']]"
+530,20170323_Trump_Times_Interview_0270,"[['Middle East', 19323, 'Q7204'], ['North Korea', 21255, 'Q423'], ['millions of people', 10396793, 'Q2763']]"
+531,20170323_Trump_Times_Interview_0270,"[['Middle East', 19323, 'Q7204'], ['North Korea', 21255, 'Q423'], ['millions of people', 10396793, 'Q2763']]"
+532,20170323_Trump_Times_Interview_0270,"[['Middle East', 19323, 'Q7204'], ['North Korea', 21255, 'Q423'], ['millions of people', 10396793, 'Q2763']]"
+533,20170404_Trump_CEO_TownHall_0103,"[['infrastructure', 174521, 'Q121359'], ['Obama administration', 20082093, 'Q1379733']]"
+534,20170404_Trump_CEO_TownHall_0103,"[['infrastructure', 174521, 'Q121359'], ['Obama administration', 20082093, 'Q1379733']]"
+535,20170404_Trump_CEO_TownHall_0105,[]
+536,20170404_Trump_CEO_TownHall_0105,[]
+537,20170404_Trump_CEO_TownHall_0304,"[['70,000', 'not available', 'not available'], ['short period', 4345279, 'Q570319'], ['70,000', 'not available', 'not available']]"
+538,20170404_Trump_CEO_TownHall_0305,"[['Reed', 'not available', 'not available'], ['70,000', 'not available', 'not available'], ['70,000', 'not available', 'not available']]"
+539,20170404_Trump_CEO_TownHall_0307,"[['70,000', 'not available', 'not available']]"
+540,20170404_Trump_CEO_TownHall_0287,"[['4.6', 'not available', 'not available']]"
+541,20170404_Trump_CEO_TownHall_0293,"[['air conditioner', 7221088, 'Q173725'], ['61 percent', 'not available', 'not available']]"
+542,20170424_Trump_AP_interview_0070,"[['$725 million', 'not available', 'not available'], ['90', 'not available', 'not available']]"
+543,20170424_Trump_AP_interview_0535,"[['100', 'not available', 'not available'], ['100', 'not available', 'not available']]"
+544,20170424_Trump_AP_interview_0412,"[['Wikileaks', 8877168, 'Q359'], ['Wikileaks', 8877168, 'Q359']]"
+545,20170424_Trump_AP_interview_0387,"[['500,000', 'not available', 'not available'], ['months ago', 1160837, 'Q3488489']]"
+546,20170424_Trump_AP_interview_0387,"[['500,000', 'not available', 'not available'], ['months ago', 1160837, 'Q3488489']]"
+547,20170430_Trumo_CBS_FactTheNation_0511,"[['Hillary', 'not available', 'not available'], ['Russia', 25391, 'Q159']]"
+548,20170430_Trumo_CBS_FactTheNation_0007,"[['president of China', 61155, 'Q887003'], ['President Xi', 2017814, 'Q15031']]"
+549,20170512_Trump_NBC_holt_interview_0184,"[['Obama', 'not available', 'not available'], ['Obama administration', 20082093, 'Q1379733']]"
+550,20170601_Trump_Paris_Climate_0059,"[['China', 5405, 'Q148'], ['13', 'not available', 'not available']]"
+551,20170713_Trump_Roberston_interiew_0079,"[['Saudi Arabia', 349303, 'Q851'], ['military equipment', 90815, 'Q329864']]"
+552,20170713_Trump_Roberston_interiew_0244,"[['Keystone Pipeline', 11675105, 'Q1631056']]"
+553,20170713_Trump_Roberston_interiew_0249,[]
+554,20170713_Trump_Roberston_interiew_0257,[]
+555,20170713_Trump_Roberston_interiew_0257,[]
+556,20170713_Trump_Roberston_interiew_0313,"[['Obamacare', 25226624, 'Q1414593']]"
+557,20170713_Trump_Roberston_interiew_0313,"[['Obamacare', 25226624, 'Q1414593']]"
+558,20170713_Trump_Roberston_interiew_0314,[]
+559,20170713_Trump_Roberston_interiew_0314,[]
+560,20170724_Trump_Healthcare_0095,"[['Obamacare', 25226624, 'Q1414593'], ['health care', 261925, 'Q31207']]"
+561,20170803_Trump_WV_0163,"[['uranium', 31743, 'Q1098'], ['Russian', 'not available', 'not available']]"
+562,20170822_Trump_phoenix_0204,"[['CNN', 62028, 'Q48340']]"
+563,20170822_Trump_phoenix_0259,"[['unemployment rate', 31741, 'Q41171'], ['17', 'not available', 'not available']]"
+564,20170822_Trump_phoenix_0017,[]
+565,20170822_Trump_phoenix_0116,"[['anarchist', 12, 'Q6199']]"
+566,20170822_Trump_phoenix_0509,"[['Arizona', 21883824, 'Q816'], ['insurance', 15176, 'Q43183'], ['116 percent', 'not available', 'not available']]"
+567,20170822_Trump_phoenix_0509,"[['Arizona', 21883824, 'Q816'], ['insurance', 15176, 'Q43183'], ['116 percent', 'not available', 'not available']]"
+568,20170822_Trump_phoenix_0604,[]
+569,20170822_Trump_phoenix_0424,"[['Kelly', 'not available', 'not available'], ['Homeland Security', 'not available', 'not available'], ['78', 'not available', 'not available'], ['80 percent', 'not available', 'not available']]"
+570,20170822_Trump_phoenix_0325,"[['The New York Times', 30680, 'Q9684'], ['I won', 'not available', 'not available']]"
+571,20170919_Trump_UNGA_0149,"[['United States', 3434750, 'Q30'], ['193', 'not available', 'not available'], ['United Nations', 31769, 'Q1065'], ['22 percent', 'not available', 'not available'], ['entire budget', 3508373, 'Q1130259']]"
+572,20170919_Trump_UNGA_0150,[]
+573,20170919_Trump_UNGA_0042,"[['230th', 'not available', 'not available'], ['world today', 20770345, 'Q7776059']]"
+574,20170919_Trump_UNGA_0103,"[['nuclear program', 106424, 'Q498641']]"
+575,20180426_Trump_Fox_Friends_0036,"[[""I'm"", 'not available', 'not available'], ['past administration', 14458938, 'Q7241106'], ['$150 billion', 'not available', 'not available'], ['$1.8 billion', 'not available', 'not available']]"
+576,20180426_Trump_Fox_Friends_0038,"[['death to America', 2507881, 'Q15095592'], ['death to America', 2507881, 'Q15095592']]"
+577,20180426_Trump_Fox_Friends_0038,"[['death to America', 2507881, 'Q15095592'], ['death to America', 2507881, 'Q15095592']]"
+578,20180426_Trump_Fox_Friends_0315,"[['Kanye', 'not available', 'not available'], ['unemployment', 31741, 'Q41171'], ['history of our country', 14115, 'Q161414']]"
+579,20180426_Trump_Fox_Friends_0316,"[['Hispanic', 56120, 'Q1211934'], ['unemployment', 31741, 'Q41171'], ['history of our country', 14115, 'Q161414']]"
+580,20180426_Trump_Fox_Friends_0317,"[['unemployment', 31741, 'Q41171'], ['unemployment', 31741, 'Q41171'], ['19', 'not available', 'not available']]"
+581,20180426_Trump_Fox_Friends_0544,[]
+582,20180426_Trump_Fox_Friends_0545,"[['Democrats', 'not available', 'not available'], ['Electoral College', 85533, 'Q47586'], ['Electoral College', 85533, 'Q47586'], ['Democrats', 'not available', 'not available'], ['Electoral College', 85533, 'Q47586']]"
+583,20180426_Trump_Fox_Friends_0545,"[['Democrats', 'not available', 'not available'], ['Electoral College', 85533, 'Q47586'], ['Electoral College', 85533, 'Q47586'], ['Democrats', 'not available', 'not available'], ['Electoral College', 85533, 'Q47586']]"
+584,20180426_Trump_Fox_Friends_0553,"[['13', 'not available', 'not available'], ['Democrats', 'not available', 'not available']]"
+585,20180426_Trump_Fox_Friends_0554,"[['Hillary Clinton', 5043192, 'Q6294']]"
+586,20180504_Trumo_NRA_0381,"[['Democratic', 5043544, 'Q29552']]"
+587,20180504_Trumo_NRA_0408,"[['MS13', 18362074, 'Q127784'], ['gang members', 12534776, 'Q5521192']]"
+588,20180504_Trumo_NRA_0132,"[['Paul Manafort', 18306417, 'Q3371760'], ['nice guy', 8097692, 'Q1377145'], ['short period', 4345279, 'Q570319']]"
+589,20180504_Trumo_NRA_0133,[]
+590,20180504_Trumo_NRA_0134,[]
+591,20180504_Trumo_NRA_0345,"[['Democrats', 'not available', 'not available']]"
+592,20180504_Trumo_NRA_0378,"[['based on merit', 20971, 'Q178079']]"
+593,20180525_Trump_Naval_0176,"[['pay increase', 610452, 'Q194489'], ['10', 'not available', 'not available']]"
+594,20180612_Trump_Singapore_0436,"[['long period of time', 11877, 'Q948814'], ['South Korea', 27019, 'Q884']]"
+595,20180612_Trump_Singapore_0438,[]
+596,20180612_Trump_Singapore_0438,[]
+597,20180615_Trump_lawn_0219,"[['13', 'not available', 'not available'], ['Democrats', 'not available', 'not available']]"
+598,20180615_Trump_lawn_0220,"[['13', 'not available', 'not available'], ['Democrats', 'not available', 'not available'], ['Obama', 'not available', 'not available']]"
+599,20180615_Trump_lawn_0221,"[['Republicans', 32070, 'Q29468']]"
+600,20180615_Trump_lawn_0163,"[['Democrats', 'not available', 'not available']]"
+601,20180615_Trump_lawn_0164,[]
+602,20180615_Trump_lawn_0160,"[['Mr.', 'not available', 'not available']]"
+603,20180615_Trump_lawn_0442,"[['South Korea', 27019, 'Q884']]"
+604,20180628_Trump_NorthDakota_0295,"[['MS13', 18362074, 'Q127784'], ['Nancy Pelosi', 147301, 'Q170581']]"
+605,20180628_Trump_NorthDakota_0346,[]
+606,20180628_Trump_NorthDakota_0346,[]
+607,20180628_Trump_NorthDakota_0348,[]
+608,20180628_Trump_NorthDakota_0348,[]
+609,20180628_Trump_NorthDakota_0568,"[['22', 'not available', 'not available']]"
+610,20180712_Trump_NATO_0008,[]
+611,20180712_Trump_NATO_0009,[]
+612,20180712_Trump_NATO_0067,"[['United States', 3434750, 'Q30'], ['70', 'not available', 'not available'], ['90 percent', 'not available', 'not available']]"
+613,20180712_Trump_NATO_0521,"[['Wisconsin', 33127, 'Q1537'], ['Ronald Reagan', 25433, 'Q9960']]"
+614,20180712_Trump_NATO_0647,[]
+615,20180712_Trump_NATO_0648,[]
+616,20180731_Trump_Tampa_0323,"[['history of the Republican Party', 4157940, 'Q5870609'], ['Trump', 4848272, 'Q22686']]"
+617,20180731_Trump_Tampa_0381,"[['Democrats', 'not available', 'not available'], ['illegal immigrants', 7124412, 'Q856681']]"
+618,20180731_Trump_Tampa_0257,"[['China', 5405, 'Q148']]"
+619,20180731_Trump_Tampa_0261,"[['$500 billion', 'not available', 'not available']]"
+620,20180731_Trump_Tampa_0377,"[['$1.6 billion', 'not available', 'not available']]"
+621,20180731_Trump_Tampa_0373,"[['brave men', 4117056, 'Q2901077'], ['ICE', 216537, 'Q943091'], ['MS13', 18362074, 'Q127784']]"
+622,20180731_Trump_Tampa_0373,"[['brave men', 4117056, 'Q2901077'], ['ICE', 216537, 'Q943091'], ['MS13', 18362074, 'Q127784']]"
+623,20180731_Trump_Tampa_0446,"[['tax cuts', 455990, 'Q7689423'], ['American history', 63876, 'Q131110']]"
+624,20180821_Trump_Charleston_0036,"[['United States Steel', 315801, 'Q72539']]"
+625,20180821_Trump_Charleston_0037,[]
+626,20180821_Trump_Charleston_0651,"[['Canada', 5042916, 'Q16'], ['300%', 'not available', 'not available'], ['dairy products', 8097, 'Q185217'], ['Canada', 5042916, 'Q16'], ['dairy products', 8097, 'Q185217']]"
+627,20180821_Trump_Charleston_0666,"[['China', 5405, 'Q148'], ['25%', 'not available', 'not available'], ['tariff', 55551, 'Q736288']]"
+628,20180821_Trump_Charleston_0570,"[['United States', 3434750, 'Q30'], ['90%', 'not available', 'not available'], ['Europe', 9239, 'Q46']]"
+629,20180821_Trump_Charleston_0314,[]
+630,20180821_Trump_Charleston_0320,[]
+631,20180821_Trump_Charleston_0340,"[['400', 'not available', 'not available']]"
+632,20181015_60_min_0001,"[['climate change', 47512, 'Q125928'], ['hoax', 52239, 'Q190084']]"
+633,20181015_60_min_0001,"[['climate change', 47512, 'Q125928'], ['hoax', 52239, 'Q190084']]"
+634,20181015_60_min_0004,"[['hoax', 52239, 'Q190084']]"
+635,20181015_60_min_0004,"[['hoax', 52239, 'Q190084']]"
+636,20181015_60_min_0005,[]
+637,20181015_60_min_0209,"[['President Xi', 2017814, 'Q15031'], ['China', 5405, 'Q148'], ['$500 billion', 'not available', 'not available'], ['United States', 3434750, 'Q30']]"
+638,20181015_60_min_0209,"[['President Xi', 2017814, 'Q15031'], ['China', 5405, 'Q148'], ['$500 billion', 'not available', 'not available'], ['United States', 3434750, 'Q30']]"
+639,20181015_60_min_0209,"[['President Xi', 2017814, 'Q15031'], ['China', 5405, 'Q148'], ['$500 billion', 'not available', 'not available'], ['United States', 3434750, 'Q30']]"
+640,20181015_60_min_0264,"[['NATO', 21133, 'Q7184'], ['Europe', 9239, 'Q46']]"
+641,20181015_60_min_0300,"[['Ukraine', 31750, 'Q212']]"
+642,20181015_60_min_0373,[]
+643,20181015_60_min_0397,"[['migrant children', 1446066, 'Q5888282']]"
+644,20181015_60_min_0397,"[['migrant children', 1446066, 'Q5888282']]"
+645,20181015_60_min_0401,"[['Obama', 'not available', 'not available']]"
+646,20181015_60_min_0401,"[['Obama', 'not available', 'not available']]"
+647,20181015_60_min_0402,"[['Obama', 'not available', 'not available']]"
+648,20181015_60_min_0402,"[['Obama', 'not available', 'not available']]"
+649,20181015_60_min_0405,"[['tolerance policy', 21164, 'Q1310253']]"
+650,20181015_60_min_0405,"[['tolerance policy', 21164, 'Q1310253']]"
+651,20181015_60_min_0086,"[['history of our country', 14115, 'Q161414']]"
+652,20181102_Trump_Huntington_0160,"[['Democrats', 'not available', 'not available']]"
+653,20181102_Trump_Huntington_0169,"[['illegal aliens', 5044573, 'Q185367']]"
+654,20181102_Trump_Huntington_0494,"[['100 percent', 'not available', 'not available'], ['heroin', 14034, 'Q60168'], ['United States', 3434750, 'Q30'], ['southern border', 2817606, 'Q1057263'], ['90 percent', 'not available', 'not available'], ['cocaine', 7701, 'Q41576'], ['meth', 11038318, 'Q191924'], ['fentanyl', 141915, 'Q407541'], ['fentanyl', 141915, 'Q407541']]"
+655,20181102_Trump_Huntington_0148,"[['health care', 261925, 'Q31207'], ['socialism', 26847, 'Q7272'], ['America', 'not available', 'not available'], ['Venezuela', 32374, 'Q717'], ['Democrats', 'not available', 'not available']]"
+656,20181102_Trump_Huntington_0148,"[['health care', 261925, 'Q31207'], ['socialism', 26847, 'Q7272'], ['America', 'not available', 'not available'], ['Venezuela', 32374, 'Q717'], ['Democrats', 'not available', 'not available']]"
+657,20181102_Trump_Huntington_0156,"[['1.6 billion', 'not available', 'not available'], ['1.6 billion', 'not available', 'not available'], ['1.6 billion', 'not available', 'not available']]"
+658,20181102_Trump_Huntington_0157,[]
+659,20181102_Trump_Huntington_0665,"[['pay raise', 7736362, 'Q4604751']]"
+660,20181112_trump_pelosi_0292,[]
+661,20181112_trump_pelosi_0292,[]
+662,20181112_trump_pelosi_0293,[]
+663,20181112_trump_pelosi_0293,[]
+664,20181112_trump_pelosi_0183,"[['10', 'not available', 'not available'], ['short period', 4345279, 'Q570319']]"
+665,20181112_trump_pelosi_0358,"[['medical problems', 45547, 'Q131572']]"
+666,20190304_Trump_CPAC_1553,"[['Visa', 'not available', 'not available']]"
+667,20190304_Trump_CPAC_1561,[]
+668,20190304_Trump_CPAC_1797,"[['VA Choice', 'not available', 'not available'], ['VA Choice', 'not available', 'not available']]"
+669,20190304_Trump_CPAC_1806,"[['44', 'not available', 'not available']]"
+670,20190304_Trump_CPAC_1578,"[['womb', 31863, 'Q9612'], ['womb', 31863, 'Q9612']]"
+671,20190304_Trump_CPAC_1578,"[['womb', 31863, 'Q9612'], ['womb', 31863, 'Q9612']]"
+672,20190304_Trump_CPAC_0567,"[['tax cuts', 455990, 'Q7689423'], ['American history', 63876, 'Q131110']]"
+673,20190304_Trump_CPAC_1180,[]
+674,20190304_Trump_CPAC_0276,"[['Robert Mueller', 471457, 'Q715156'], ['13', 'not available', 'not available'], ['Democrats', 'not available', 'not available'], ['history of our country', 14115, 'Q161414']]"
+675,20190304_Trump_CPAC_1412,"[['sexually assaulted', 218407, 'Q673281'], ['journey north', 992161, 'Q1277677']]"
+676,20190304_Trump_CPAC_1521,[]
+677,20190304_Trump_CPAC_1521,[]
+678,20190304_Trump_CPAC_1522,"[['Three percent', 'not available', 'not available']]"
+679,20190304_Trump_CPAC_1522,"[['Three percent', 'not available', 'not available']]"
+680,20190619_Trump_Campain_Florida_0163,"[['Second Amendment', 31655, 'Q210645'], ['tax cut', 455990, 'Q7689423'], ['individual mandate', 24477008, 'Q6025316'], ['Obamacare', 25226624, 'Q1414593']]"
+681,20190619_Trump_Campain_Florida_0361,[]
+682,20190730_democratic_debate_Detroit_1_0471,"[['Medicare', 58353, 'Q559392'], ['1,200', 'not available', 'not available']]"
+683,20190730_democratic_debate_Detroit_1_0472,"[['rural America', 212614, 'Q175185'], ['hospital administrators', 11038718, 'Q1137608'], ['Medicare', 58354, 'Q6806631']]"
+684,20190730_democratic_debate_Detroit_1_0473,[]
+685,20190730_democratic_debate_Detroit_1_0521,"[['statute', 26783, 'Q820655'], ['Donald Trump', 4848272, 'Q22686']]"
+686,20190730_democratic_debate_Detroit_1_0137,[]
+687,20190730_democratic_debate_Detroit_1_0138,"[['87 million', 'not available', 'not available'], ['underinsured', 17565113, 'Q5691094'], ['$500,000', 'not available', 'not available'], ['500,000', 'not available', 'not available'], ['Americans', 'not available', 'not available'], ['bankrupt', 4695, 'Q152074'], ['medical bills', 884188, 'Q6806472'], ['30,000', 'not available', 'not available'], ['health care industry', 349319, 'Q15067276'], ['tens of billions', 30154014, 'Q472374']]"
+688,20190730_democratic_debate_Detroit_1_1540,"[['childcare', 389615, 'Q1455871']]"
+689,20190730_democratic_debate_Detroit_1_1541,[]
+690,20190730_democratic_debate_Detroit_1_1542,"[['childcare', 389615, 'Q1455871'], ['preschool teacher', 3406986, 'Q3080443']]"
+691,20190730_democratic_debate_Detroit_1_1543,[]
+692,20190731_democratic_debate_Detroit_2_0586,"[['Florida', 18933066, 'Q812'], ['2,700', 'not available', 'not available']]"
+693,20190912_democratic_debate_0460,"[['Vice President Biden', 145422, 'Q6279']]"
+694,20190912_democratic_debate_0461,[]
+695,20190912_democratic_debate_0462,[]
+696,20190912_democratic_debate_0364,"[['Fifty million', 'not available', 'not available'], ['private insurance', 15176, 'Q43183'], ['insurance policy', 669856, 'Q977871']]"
+697,20190912_democratic_debate_0739,"[['90%', 'not available', 'not available'], ['American people', 993845, 'Q1054376'], ['assault weapons', 163205, 'Q4808602']]"
+698,20190912_democratic_debate_0941,[]
+699,20190912_democratic_debate_0942,[]
+700,20190912_democratic_debate_0584,"[['slavery', 27992, 'Q8463'], ['dear God', 5649246, 'Q691027'], ['criminal justice', 168219, 'Q117488'], ['racially biased', 25613, 'Q8461'], ['AfricanAmericans', 'not available', 'not available'], ['1850', 'not available', 'not available']]"
+701,20190912_democratic_debate_0910,"[['United States Senate', 24909346, 'Q66096'], ['54', 'not available', 'not available'], ['background checks', 2738211, 'Q6973556'], ['assault weapons', 163205, 'Q4808602'], ['54', 'not available', 'not available']]"

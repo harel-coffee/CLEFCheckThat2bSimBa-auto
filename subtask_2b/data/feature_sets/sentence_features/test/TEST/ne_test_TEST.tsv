@@ -1,0 +1,66 @@
+,input_claim_ids,named_entities
+0,2019_nov_21_fact-checking-fifth-democratic-presidential-debate_0235,"[['160 million', 'not available', 'not available'], ['private insurance', 15176, 'Q43183'], ['don’t', 43037173, 'Q17646620'], ['Medicare', 58353, 'Q559392']]"
+1,2019_nov_21_fact-checking-fifth-democratic-presidential-debate_0614,"[['climate change', 47512, 'Q125928'], ['Politifact', 24127220, 'Q3394318']]"
+2,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0246,[]
+3,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0249,[]
+4,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0621,"[['whistleblower', 33821, 'Q26102'], ['Schiff', 'not available', 'not available']]"
+5,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0136,"[[""'t Germany"", 'not available', 'not available']]"
+6,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0137,"[[""Why isn't France"", 'not available', 'not available']]"
+7,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0138,"[['European', 'not available', 'not available']]"
+8,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0412,"[['Obama', 'not available', 'not available']]"
+9,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0338,"[['Joe Biden', 145422, 'Q6279'], ['prosecutor', 440936, 'Q600751'], ['prosecutor', 440936, 'Q600751']]"
+10,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0339,[]
+11,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0239,"[['Obama', 'not available', 'not available']]"
+12,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0240,[]
+13,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0234,"[['Russia', 25391, 'Q159']]"
+14,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0250,"[['Nancy Pelosi', 147301, 'Q170581'], ['House of Representatives', 155519, 'Q233262']]"
+15,2019_oct_03_fact-checking-trumps-claims-about-medicare-village_0221,"[['left-wing politicians', 18499, 'Q164597'], ['healthcare', 261925, 'Q31207'], ['open borders', 17373971, 'Q17163396']]"
+16,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0276,"[['bankruptcy', 4695, 'Q152074'], ['health insurance', 490201, 'Q334911']]"
+17,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0299,"[['reduce costs', 33451942, 'Q17009201'], ['$50', 'not available', 'not available'], ['$75,000', 'not available', 'not available'], ['$5,000', 'not available', 'not available'], ['7.4%', 'not available', 'not available'], ['5%', 'not available', 'not available'], ['4%', 'not available', 'not available'], ['income tax', 50845, 'Q179222']]"
+18,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0094,"[['Ohio', 22199, 'Q1397'], ['Michigan', 18859, 'Q1166'], ['Pennsylvania', 23332, 'Q1400']]"
+19,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0614,"[['Germany', 11867, 'Q183'], ['France', 5843419, 'Q142'], ['Denmark', 76972, 'Q35'], ['Sweden', 5058739, 'Q34']]"
+20,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0498,"[['90%', 'not available', 'not available'], ['Americans', 'not available', 'not available'], ['40', 'not available', 'not available']]"
+21,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0243,"[['don’t', 43037173, 'Q17646620'], ['American', 'not available', 'not available'], ['Medicare', 58353, 'Q559392'], ['subsidies', 146719, 'Q193219'], ['healthcare', 261925, 'Q31207']]"
+22,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0191,"[['healthcare', 261925, 'Q31207'], ['36 million', 'not available', 'not available'], ['Americans', 'not available', 'not available'], ['health insurance', 490201, 'Q334911']]"
+23,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0199,"[['Affordable Care Act', 25226624, 'Q1414593'], ['prescription drugs', 359238, 'Q1643563'], ['insulin', 14895, 'Q21163221'], ['HIV', 14170, 'Q15787'], ['AIDS', 5069516, 'Q12199'], ['EpiPens', 285897, 'Q2736787']]"
+24,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0159,"[['healthcare industry', 349319, 'Q15067276'], ['$100 billion', 'not available', 'not available']]"
+25,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0258,"[['30,000', 'not available', 'not available'], ['don’t', 43037173, 'Q17646620'], ['500,000', 'not available', 'not available']]"
+26,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0739,"[['NRA', 70101, 'Q863259']]"
+27,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0483,"[['Iran nuclear deal', 42015113, 'Q17001802']]"
+28,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0285,"[['Mike', 'not available', 'not available']]"
+29,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0117,"[['Mayor Bloomberg', 38828, 'Q607'], ['African Americans', 2154, 'Q49085'], ['Latinos', 'not available', 'not available'], ['2008', 'not available', 'not available'], ['Las Vegas', 47737, 'Q23768']]"
+30,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0365,"[['frisks', 7714031, 'Q3847734'], ['95%', 'not available', 'not available']]"
+31,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0029,"[['don’t', 43037173, 'Q17646620'], ['160 million', 'not available', 'not available'], ['insurance plan', 490201, 'Q334911'], ['Sanders', 'not available', 'not available']]"
+32,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0266,"[['healthcare industry', 349319, 'Q15067276'], ['$100 billion', 'not available', 'not available']]"
+33,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0268,"[['Pete', 'not available', 'not available']]"
+34,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0443,[]
+35,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0636,"[['Medicare', 58353, 'Q559392'], ['single payer', 1043143, 'Q1021512'], ['cost of healthcare', 4085676, 'Q5690885'], ['employers and workers', 18178, 'Q28161'], ['the hundred billion dollars', 'not available', 'not available'], ['healthcare industry', 261925, 'Q31207'], ['$500 billion', 'not available', 'not available'], ['insurance plans', 15343730, 'Q5691099']]"
+36,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0011,"[['13', 'not available', 'not available'], ['years ago', 34341, 'Q577'], ['Iraq', 7515928, 'Q796'], ['nuclear weapon', 21785, 'Q12802']]"
+37,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0012,[]
+38,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_1075,"[['1986', 'not available', 'not available'], ['climate change', 47512, 'Q125928']]"
+39,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0058,"[['Mr.', 'not available', 'not available'], ['outset', 14479445, 'Q7112930'], ['coronavirus', 201983, 'Q290805']]"
+40,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0060,"[['Gallup poll', 5367625, 'Q65358']]"
+41,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0391,"[['$3 million', 'not available', 'not available'], ['$183,000', 'not available', 'not available'], ['board member', 4822, 'Q188628']]"
+42,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0400,"[['Bernie', 'not available', 'not available']]"
+43,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0441,"[['100 percent', 'not available', 'not available']]"
+44,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0442,"[['healthcare', 261925, 'Q31207'], ['60 percent, even', 'not available', 'not available'], ['65 percent', 'not available', 'not available'], ['Obamacare', 25226624, 'Q1414593']]"
+45,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0297,"[['LNG', 832128, 'Q358333'], ['Louisiana', 18130, 'Q1588'], ['10, 12, 14', 'not available', 'not available']]"
+46,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0661,"[['North Korea', 21255, 'Q423']]"
+47,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0663,[]
+48,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0668,"[['Kim Jong-un', 5962511, 'Q56226']]"
+49,2020_mar_16_fact-checking-sanders-biden-primary-debate_0552,"[['Senate', 'not available', 'not available'], ['Social Security', 48728, 'Q13479957'], ['Medicare', 58353, 'Q559392']]"
+50,2020_mar_16_fact-checking-sanders-biden-primary-debate_0858,"[['bone', 4099, 'Q265868']]"
+51,2020_mar_16_fact-checking-sanders-biden-primary-debate_0859,[]
+52,2020_mar_16_fact-checking-sanders-biden-primary-debate_0385,"[['financial institution', 208836, 'Q650241'], ['central banks', 5666, 'Q66344']]"
+53,2020_mar_16_fact-checking-sanders-biden-primary-debate_0672,[]
+54,2020_mar_16_fact-checking-sanders-biden-primary-debate_0674,"[['$15', 'not available', 'not available'], ['New York city', 645042, 'Q60']]"
+55,2020_mar_16_fact-checking-sanders-biden-primary-debate_0675,[]
+56,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0079,"[['20%', 'not available', 'not available']]"
+57,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0080,[]
+58,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0081,[]
+59,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0116,"[['Joe Biden', 145422, 'Q6279'], ['xenophobic', 34141, 'Q166005']]"
+60,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0117,[]
+61,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0216,"[['Nancy Pelosi', 147301, 'Q170581'], ['Chinatown', 445363, 'Q1073644'], ['San Francisco', 49728, 'Q62']]"
+62,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0054,[]
+63,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0493,"[['socialized medicine', 59111, 'Q17082008']]"
+64,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0617,"[['everybody’s', 30699899, 'Q5417664'], ['big people', 63455, 'Q1621322']]"

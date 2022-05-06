@@ -1,0 +1,66 @@
+,input_claim_ids,pos
+0,2019_nov_21_fact-checking-fifth-democratic-presidential-debate_0235,"['people', 'they', 'they']"
+1,2019_nov_21_fact-checking-fifth-democratic-presidential-debate_0614,"['i', 'politifact']"
+2,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0246,['he']
+3,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0249,"['i', 'everybody']"
+4,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0621,"['you', 'you', 'it']"
+5,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0136,"['i', 'germany']"
+6,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0137,['france']
+7,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0138,"['all', 'they']"
+8,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0412,"['she', 'she', 'you']"
+9,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0338,"['i', 'who', 'lot', 'they']"
+10,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0339,['he']
+11,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0239,['obama']
+12,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0240,['he']
+13,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0234,['i']
+14,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0250,"['pelosi', 'who', 'she']"
+15,2019_oct_03_fact-checking-trumps-claims-about-medicare-village_0221,"['one', 'we']"
+16,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0276,"['i', 'two', 'that', 'problem']"
+17,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0299,"['study', 'it', 'people', 'taxes', 'fact', 'they']"
+18,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0094,['ohio']
+19,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0614,"['problem', 'it', 'they']"
+20,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0498,['%']
+21,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0243,"['i', 'people', 'they', 'they', 'who', 'which', 'we', 'subsidies', 'you']"
+22,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0191,"['i', 'we', 'americans', 'that']"
+23,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0199,"['i', 'i']"
+24,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0159,"['it', 'industry']"
+25,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0258,"['30,000', 'they', 'people']"
+26,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0739,"['i', 'i']"
+27,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0483,"['it', 'administration']"
+28,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0285,"['you', 'we', 'mike']"
+29,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0117,"['bloomberg', 'i', 'that']"
+30,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0365,"['we', 'i', 'we', 'we']"
+31,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0029,"['you', 'i', 'i', 'they', 'you', 'camp', 'they']"
+32,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0266,"['it', 'industry']"
+33,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0268,['ceos']
+34,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0443,"['people', 'who', 'they']"
+35,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0636,"['we', 'we', 'industry', 'we']"
+36,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0011,"['i', 'it', 'he', 'what']"
+37,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0012,"['it', 'i']"
+38,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_1075,"['response', 'i', 'they', 'it']"
+39,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0058,"['president', 'response']"
+40,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0060,"['we', 'i', 'you', 'you', 'we']"
+41,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0391,"['he', 'he', 'that', 'lot']"
+42,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0400,"['i', 'he']"
+43,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0441,['we']
+44,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0442,"['we', 'it']"
+45,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0297,"['i', 'they', 'they']"
+46,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0661,"['he', 'problem', 'we']"
+47,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0663,['i']
+48,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0668,['un']
+49,2020_mar_16_fact-checking-sanders-biden-primary-debate_0552,"['i', 'you']"
+50,2020_mar_16_fact-checking-sanders-biden-primary-debate_0858,"['i', 'i', 'one', 'i']"
+51,2020_mar_16_fact-checking-sanders-biden-primary-debate_0859,"['i', 'you']"
+52,2020_mar_16_fact-checking-sanders-biden-primary-debate_0385,['fed']
+53,2020_mar_16_fact-checking-sanders-biden-primary-debate_0672,"['i', 'i']"
+54,2020_mar_16_fact-checking-sanders-biden-primary-debate_0674,[]
+55,2020_mar_16_fact-checking-sanders-biden-primary-debate_0675,[]
+56,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0079,"['we', 'we']"
+57,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0080,"['we', 'you']"
+58,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0081,['you']
+59,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0116,"['biden', 'i', 'i', 'i', 'that']"
+60,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0117,['he']
+61,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0216,"['pelosi', 'thing']"
+62,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0054,"['we', 'cupboards', 'we']"
+63,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0493,"['you', 'they', 'they', 'they']"
+64,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0617,"['you', 'he', 'you', 'he', 'he', 'i', 'you', 'we', 'that']"

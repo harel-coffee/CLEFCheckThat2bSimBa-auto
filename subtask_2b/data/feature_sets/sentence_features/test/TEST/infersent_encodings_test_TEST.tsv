@@ -1,0 +1,120 @@
+,tweet_ids,tweet_encodings
+0,2019_nov_21_fact-checking-fifth-democratic-presidential-debate_0235,"[ 0.00746889 -0.06607444  0.05153994 ...  0.00752077  0.06831997
+  0.01442819]"
+1,2019_nov_21_fact-checking-fifth-democratic-presidential-debate_0614,"[ 0.00746889 -0.02955296  0.11745211 ...  0.02702988  0.02690225
+  0.01469362]"
+2,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0246,[0.00746889 0.03536552 0.02757684 ... 0.05571025 0.07172194 0.01046036]
+3,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0249,"[ 0.00746889 -0.02402572  0.02615763 ...  0.00221928 -0.00476184
+ -0.00903217]"
+4,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0621,"[ 0.00746889 -0.02235018  0.06993654 ...  0.05577204  0.03872472
+  0.00818345]"
+5,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0136,"[ 0.00746889 -0.03346812  0.04109851 ...  0.02287162  0.01285807
+  0.00349559]"
+6,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0137,"[ 0.00746889 -0.02350897 -0.06162069 ...  0.01435022  0.00903692
+ -0.02314956]"
+7,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0138,"[ 0.00746889 -0.02350897 -0.04446626 ...  0.0561236   0.01116753
+ -0.02700554]"
+8,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0412,"[ 0.00746889 -0.01868818  0.09469093 ...  0.07361922  0.00544732
+ -0.01385639]"
+9,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0338,"[ 0.00746889  0.08700209  0.149312   ...  0.03696981  0.02156977
+ -0.01283897]"
+10,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0339,"[ 0.00746889  0.01555916 -0.03289953 ...  0.04432955 -0.02512329
+ -0.00809991]"
+11,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0239,"[ 0.00746889 -0.06609324  0.12066063 ... -0.00105651  0.04277217
+ -0.01385639]"
+12,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0240,"[ 0.00746889  0.04290617 -0.00282231 ...  0.05371509  0.08199743
+ -0.01385639]"
+13,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0234,"[ 0.00746889 -0.02781819 -0.02116663 ...  0.04912696  0.01616865
+  0.00381771]"
+14,2019_nov_22_fact-checking-trumps-falsehoods-fox-and-friends-ab_0250,"[ 0.00746889 -0.04885949  0.03512404 ...  0.01841266  0.01793874
+ -0.01385639]"
+15,2019_oct_03_fact-checking-trumps-claims-about-medicare-village_0221,"[ 0.00746889 -0.02697346  0.07704034 ...  0.00487555 -0.00228321
+ -0.00242184]"
+16,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0276,"[ 0.00746889 -0.02642235  0.01712836 ...  0.01146243  0.02112293
+  0.00523512]"
+17,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0299,"[ 0.00746889 -0.04387489  0.08840715 ...  0.02762335  0.04594759
+  0.00673558]"
+18,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0094,"[ 0.00746889 -0.05128009  0.04215183 ...  0.01275453 -0.01628918
+ -0.01385639]"
+19,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0614,"[ 0.00746889 -0.05016967  0.03024069 ...  0.05127721  0.00951163
+  0.00922171]"
+20,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0498,"[ 0.00746889 -0.04927259  0.05414329 ...  0.0410154   0.04756249
+ -0.00023566]"
+21,2019_oct_16_fact-checking-cnn-nyt-democratic-debate-ohio_0243,"[ 0.00746889  0.02554275  0.12408763 ...  0.02158152  0.02642337
+ -0.00456528]"
+22,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0191,[0.00746889 0.04233954 0.04613274 ... 0.03438096 0.01997921 0.02867868]
+23,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0199,"[ 0.00746889 -0.03285877  0.08242824 ...  0.01704569  0.05226345
+  0.00887995]"
+24,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0159,"[ 0.00746889 -0.04252926  0.08221276 ...  0.03703605  0.10799656
+  0.04583564]"
+25,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0258,"[ 0.00746889  0.00802212  0.08398626 ...  0.04558375  0.08162802
+ -0.02294455]"
+26,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0739,"[ 0.00746889 -0.0038704   0.19522434 ...  0.05050383 -0.0067838
+  0.02325847]"
+27,2020_feb_08_fact-checking-democratic-presidential-debate-manch_0483,[0.00746889 0.0233649  0.12232849 ... 0.04232543 0.05775387 0.00527518]
+28,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0285,[0.00746889 0.07084403 0.10184376 ... 0.01831823 0.02266299 0.00798217]
+29,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0117,"[ 0.00746889 -0.03610869  0.08324019 ...  0.04226784  0.05328917
+  0.00986811]"
+30,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0365,"[ 0.00746889 -0.03338439  0.06092366 ...  0.01704789  0.06979851
+  0.00117249]"
+31,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0029,"[ 0.00746889 -0.00596023  0.08931784 ...  0.06022384  0.06871741
+  0.0194507 ]"
+32,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0266,"[ 0.00746889 -0.04970931  0.0972193  ...  0.01926464  0.10827889
+  0.0462459 ]"
+33,2020_feb_20_fact-checking-las-vegas-democratic-debate-bloomber_0268,"[ 0.00746889  0.06612068  0.02264997 ... -0.01635187  0.00114002
+ -0.01385639]"
+34,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0443,"[ 0.00746889 -0.0145715   0.00763043 ...  0.01124723 -0.00366211
+  0.01140468]"
+35,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0636,[0.00746889 0.01832337 0.08902917 ... 0.03804379 0.05462445 0.03384168]
+36,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0011,[0.00746889 0.0474154  0.02376799 ... 0.05221504 0.03180718 0.0038707 ]
+37,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_0012,"[ 0.00746889 -0.044347    0.05177948 ...  0.00625079 -0.02765788
+  0.00384563]"
+38,2020_jan_15_fact-checking-seventh-democratic-presidential-deba_1075,"[ 0.00746889  0.02687475  0.11242156 ...  0.00746507  0.02690225
+ -0.0020129 ]"
+39,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0058,"[ 0.00746889 -0.01782229  0.0407548  ...  0.05005491 -0.0208032
+  0.00426033]"
+40,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0060,"[ 0.00746889 -0.03153279  0.11557863 ...  0.0378344  -0.01583245
+ -0.00418087]"
+41,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0391,[0.00746889 0.01494927 0.07911471 ... 0.07878365 0.02367906 0.02564161]
+42,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0400,"[ 0.00746889 -0.00400853  0.04457072 ...  0.08279848  0.01845055
+  0.00691609]"
+43,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0441,"[ 0.00746889 -0.05472957  0.07802434 ...  0.03269408  0.09182642
+ -0.01135786]"
+44,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0442,"[ 0.00746889 -0.04816063  0.00533297 ...  0.09430645  0.06344549
+ -0.00685544]"
+45,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0297,"[ 0.00746889  0.03472522  0.03872677 ...  0.01975506  0.02903334
+ -0.00880686]"
+46,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0661,[0.00746889 0.01333762 0.02350006 ... 0.07503923 0.05744141 0.03652523]
+47,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0663,"[ 0.00746889  0.01212558  0.11949004 ...  0.03504416 -0.01301408
+  0.00852681]"
+48,2020_mar_06_fact-checking-donald-trumps-fox-news-town-hall-scr_0668,"[ 0.00746889  0.05069728 -0.00077347 ...  0.01030658  0.02503973
+ -0.00175839]"
+49,2020_mar_16_fact-checking-sanders-biden-primary-debate_0552,"[ 0.00746889 -0.00158812  0.06589857 ...  0.04646795 -0.00199834
+  0.00786778]"
+50,2020_mar_16_fact-checking-sanders-biden-primary-debate_0858,"[ 0.00746889 -0.03066286  0.06537849 ...  0.04132393  0.02899658
+  0.00386879]"
+51,2020_mar_16_fact-checking-sanders-biden-primary-debate_0859,"[ 0.00746889 -0.02781819 -0.00533021 ...  0.00895182 -0.02245166
+  0.01061127]"
+52,2020_mar_16_fact-checking-sanders-biden-primary-debate_0385,"[ 0.00746889 -0.02587494  0.07697017 ...  0.04394844  0.03254225
+ -0.01350699]"
+53,2020_mar_16_fact-checking-sanders-biden-primary-debate_0672,"[ 0.00746889 -0.03239647  0.00275272 ...  0.06219743 -0.03371108
+ -0.01175973]"
+54,2020_mar_16_fact-checking-sanders-biden-primary-debate_0674,"[ 0.00746889 -0.08204419  0.04948332 ...  0.02037886  0.03231575
+  0.00327195]"
+55,2020_mar_16_fact-checking-sanders-biden-primary-debate_0675,"[ 0.00746889 -0.11372892  0.02110752 ... -0.05810422 -0.04084499
+ -0.0138564 ]"
+56,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0079,"[ 0.00746889 -0.04192274 -0.02141832 ...  0.0469068   0.02497735
+  0.01081981]"
+57,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0080,"[ 0.00746889  0.00960374 -0.06283926 ...  0.01679761 -0.01463479
+  0.0152256 ]"
+58,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0081,"[ 0.00746889 -0.00596023  0.03823801 ...  0.05736776 -0.03009604
+  0.0152256 ]"
+59,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0116,[0.00746889 0.07767737 0.00289422 ... 0.04492768 0.01982942 0.00371478]
+60,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0117,"[ 0.00746889  0.00924293  0.03547321 ...  0.05280787 -0.000756
+ -0.01385639]"
+61,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0216,"[ 0.00746889 -0.03801848  0.09495863 ...  0.03975337  0.08937838
+  0.00771962]"
+62,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0054,[0.00746889 0.02428469 0.0322306  ... 0.01480616 0.01081601 0.00275673]
+63,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0493,"[ 0.00746889 -0.03935728  0.03400758 ...  0.03424149  0.02666853
+ -0.01385639]"
+64,2020_sep_16_fact-checking-donald-trumps-abc-town-hall_0617,[0.00746889 0.03991818 0.08955593 ... 0.07996463 0.00800228 0.00095542]
