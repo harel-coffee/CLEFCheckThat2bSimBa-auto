@@ -346,34 +346,33 @@ if __name__ == '__main__':
 
     # ## TEST ##
     #
-    # output = 'data/output/subtask2B_english.tsv'
-    #
-    # test_data = 'data/original_speech_data/TEST/test_TEST.tsv'
-    #
-    # predictions_binary_TEST = 'data/predictions/TEST/binary.tsv'
-    #
-    # fsg = FeatureSetGenerator(['sbert', 'infersent', 'universal', 'sim_cse', 'seq_match', 'levenshtein', 'jacc_chars',
-    #                             'jacc_tokens', 'ne', 'main_syms', 'words', 'subjects', 'token_number', 'ne_ne_ratio',
-    #                             'ne_token_ratio', 'main_syms_ratio', 'main_syms_token_ratio', 'words_ratio',
-    #                                                       'words_token_ratio'])
-    #
-    # # featureset_test = fsg.generate_feature_set(test_data)
-    # featureset_test = complete_feature_set_pairs_test_TEST
-    #
-    # featureset_train = complete_feature_set_pairs_train
-    #
-    # predictor = Predictor('binary_classification')
-    # predictor.train_and_predict(featureset_train, featureset_test, test_data, output)
+    output = 'data/output/subtask2B_english.tsv'
+
+    test_data = 'data/original_speech_data/TEST/test_TEST.tsv'
+
+    predictions_binary_TEST = 'data/predictions/TEST/binary.tsv'
+
+    fsg = FeatureSetGenerator(['sbert', 'infersent', 'universal', 'sim_cse', 'seq_match', 'levenshtein', 'jacc_chars',
+                                'jacc_tokens', 'ne', 'main_syms', 'words', 'subjects', 'token_number', 'ne_ne_ratio',
+                                'ne_token_ratio', 'main_syms_ratio', 'main_syms_token_ratio', 'words_ratio',
+                                                          'words_token_ratio'])
+
+    featureset_test = complete_feature_set_pairs_test_TEST
+
+    featureset_train = complete_feature_set_pairs_train
+
+    predictor = Predictor('binary_classification')
+    predictor.train_and_predict(featureset_train, featureset_test, test_data, output)
 
 
 
 
     ## pp2 said context normal vclaims
-
-    training_data = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Train-Dev_Queries.tsv'
-    test_data = 'data/original_speech_data/test_data/queries.tsv'
-    pp2_test_data = 'data/pp_speech_data/test_data/pp2/claims_test_said_context_1_pp2.tsv'
-    pp2_training_data = 'data/pp_speech_data/training_data/pp2_iclaims.queries'
+    #
+    # training_data = 'data/original_speech_data/training_data/CT2022-Task2B-EN-Train-Dev_Queries.tsv'
+    # test_data = 'data/original_speech_data/test_data/queries.tsv'
+    # pp2_test_data = 'data/pp_speech_data/test_data/pp2/claims_test_said_context_1_pp2.tsv'
+    # pp2_training_data = 'data/pp_speech_data/training_data/pp2_iclaims.queries'
 
     # pre_processor = PreProcessor('said_context')
     # pp2_training_data = training_data
